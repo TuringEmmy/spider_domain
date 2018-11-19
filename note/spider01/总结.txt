@@ -1,0 +1,44 @@
+总结
+
+1. 爬虫的流程
+	a. url
+	b. 发送请求获取响应
+	c. 对响应内容提取
+	d. 提取url--重复b步骤
+	e. 提取数据就处理
+
+2. 浏览器最终展示的结果，是由多次请求的响应共同渲染出来的；爬虫代码中要以一次请求对应的那一个响应作为提取数据的依据
+
+3. 爬虫特别关注的请求头和响应头
+	User-Agent
+	Referer
+	Cookie
+	Set-cookie
+
+4. str和bytes的互相转换
+	str encode() --> bytes
+	bytes decode() --> str
+
+5. requests简单发送get请求
+	response = requests.get('http://host:port')
+
+6. response响应对象常用属性
+
+	response.url
+	response.status_code
+
+	response.headers
+	response.request.headers
+
+	response.cookies # cookieJar
+	response.request._cookies 
+
+7. 响应的内容
+	response.text
+	response.content
+
+8. 中文乱码处理
+	response.content.decode()
+	# 默认utf8,gbk,gb2312,iso-8859-1,ascii
+
+9. 图片要用bytes类型进行保存
