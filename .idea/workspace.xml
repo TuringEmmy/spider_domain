@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="358dc6ca-9af5-45ea-8afe-2b0ea1cc8b95" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2.3.3/利用js2py模块获取js加密的值.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/note/image/js的绑定事件.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/note/image/searchallfile搜索关键字.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/note/image/添加断点.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/note/image/点击美化输出.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/note/image/继续在其中搜索关键字.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/note/爬虫笔记6.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/spider_study.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/spider_study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.4.7/pymongo模块-普通用户.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.4.7/pymongo模块-权限用户.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.4.7/pymongo的增删改查.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.4.7/scrapy的开馆之战.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.3.3/利用js2py模块获取加密的内容.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +17,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/spider_study$get.coverage" NAME="get请求获取百度首页 Coverage Results" MODIFIED="1542958894069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.2.1" />
     <SUITE FILE_PATH="coverage/spider_study$js2pyjs.coverage" NAME="利用js2py模块获取js加密的值 Coverage Results" MODIFIED="1542961719709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.3.3" />
+    <SUITE FILE_PATH="coverage/spider_study$pymongo.coverage" NAME="pymongo的增删改查 Coverage Results" MODIFIED="1542976388204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.4.7" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1801126538">
@@ -64,51 +59,38 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="js" value="1" />
-          <entry key="md" value="3" />
-          <entry key="py" value="4" />
+          <entry key="md" value="6" />
+          <entry key="py" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JavaScript" value="1" />
-          <entry key="Markdown" value="3" />
-          <entry key="Python" value="4" />
+          <entry key="Markdown" value="6" />
+          <entry key="Python" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="967" />
+          <entry key="dummy" value="10" />
+          <entry key="py" value="2455" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="967" />
+          <entry key="PLAIN_TEXT" value="10" />
+          <entry key="Python" value="2455" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2.3.3/利用js2py模块获取js加密的值.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="58" column="16" selection-start-line="58" selection-start-column="16" selection-end-line="58" selection-end-column="16" />
-              <folding>
-                <element signature="e#135#150#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/note/爬虫笔记6.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="120">
-                <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/2.4.7/scrapy的开馆之战.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -129,6 +111,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/2.3.3/利用js2py模块获取js加密的值.py" />
+        <option value="$PROJECT_DIR$/2.4.7/pymongo模块.py" />
+        <option value="$PROJECT_DIR$/2.4.7/pymongo模块-权限用户.py" />
+        <option value="$PROJECT_DIR$/2.4.7/pymongo的增删改查.py" />
+        <option value="$PROJECT_DIR$/2.4.7/scrapy的开馆之战.py" />
       </list>
     </option>
   </component>
@@ -138,7 +124,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="246" />
     <option name="y" value="131" />
     <option name="width" value="481" />
@@ -163,7 +149,7 @@
             <path>
               <item name="spider_study" type="b2602c69:ProjectViewProjectNode" />
               <item name="spider_study" type="462c0819:PsiDirectoryNode" />
-              <item name="note" type="462c0819:PsiDirectoryNode" />
+              <item name="2.4.7" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -195,7 +181,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.利用js2py模块获取js加密的值">
+  <component name="RunManager" selected="Python.pymongo的增删改查">
     <configuration name="get请求获取百度首页" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="spider_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -240,12 +226,60 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="pymongo模块" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="spider_study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2.4.7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.4.7/pymongo模块-普通用户.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pymongo的增删改查" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="spider_study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2.4.7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.4.7/pymongo的增删改查.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.利用js2py模块获取js加密的值" />
       <item itemvalue="Python.get请求获取百度首页" />
+      <item itemvalue="Python.pymongo模块" />
+      <item itemvalue="Python.pymongo的增删改查" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pymongo的增删改查" />
+        <item itemvalue="Python.pymongo模块" />
         <item itemvalue="Python.利用js2py模块获取js加密的值" />
         <item itemvalue="Python.get请求获取百度首页" />
       </list>
@@ -265,15 +299,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="47" y="25" width="1315" height="600" extended-state="7" />
+    <frame x="47" y="25" width="1319" height="551" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2034564" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.20281911" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32832617" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5107296" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.57276994" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -282,7 +316,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.25751072" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.25586855" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -399,16 +433,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/note/爬虫笔记3.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="399">
-            <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/note/爬虫笔记1.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -445,6 +469,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/note/爬虫笔记6.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="165">
+            <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/2.3.3/利用js2py模块获取js加密的值.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="278">
@@ -455,13 +489,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/note/爬虫笔记6.md">
+    <entry file="file://$PROJECT_DIR$/note/爬虫笔记3.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="120">
-            <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+          <first_editor relative-caret-position="240">
+            <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/note/爬虫笔记7.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="135">
+            <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/note/爬虫笔记4.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="60">
+            <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.4.7/pymongo模块-普通用户.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.4.7/pymongo模块-权限用户.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="5" column="31" lean-forward="true" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.4.7/pymongo的增删改查.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="52" column="11" lean-forward="true" selection-start-line="52" selection-start-column="11" selection-end-line="52" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.4.7/scrapy的开馆之战.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
