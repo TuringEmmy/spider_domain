@@ -1,0 +1,1200 @@
+{"title": "CSIG16-\u8f66\u8054\u7f51\u9879\u76ee\u7ecf\u7406\uff08\u5317\u4eac\uff09"}{"title": "TME-Moo\u97f3\u4e50\u89c6\u89c9\u8bbe\u8ba1\uff08\u6df1\u5733\uff09"}{"title": "25923-CodeCC\u9ad8\u7ea7\u540e\u53f0\u5f00\u53d1\u5de5\u7a0b\u5e08"}{"title": "25923-\u9ad8\u7ea7\u5de5\u5177\u5f00\u53d1\u5de5\u7a0b\u5e08"}{"title": "CSIG02-\u817e\u8baf\u4e91\u884c\u4e1a\u65b9\u6848\u67b6\u6784\u5e08\uff08\u5317\u4eac/\u4e0a\u6d77/\u6df1\u5733/\u6210\u90fd\uff09"}{"title": "18402-MMO\u624b\u6e38\u5e73\u53f0\u6e20\u9053\u8fd0\u8425"}{"title": "20589-\u5546\u52a1\u62d3\u5c55\uff08\u6df1\u5733\u603b\u90e8\uff09"}{"title": "28600-211 \u5fae\u4fe1\u652f\u4ed8\u670d\u52a1\u5546\u4e1a\u52a1\u8fd0\u8425\u7ecf\u7406\uff08\u6df1\u5733\uff09"}{"title": "TME-\u817e\u8baf\u97f3\u4e50\u97f3\u4e50\u66f2\u5e93\u8fd0\u8425\uff08\u6df1\u5733\uff09"}{"title": "TME-Moo\u97f3\u4e50\u7cfb\u7edf\u6d4b\u8bd5\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "TME-MOO\u97f3\u4e50\u4ea7\u54c1\u8fd0\u8425\uff08\u6df1\u5733\uff09"}{"title": "TME-Moo\u97f3\u4e50\u89c6\u9891\u8fd0\u8425\u7f16\u8f91\uff08\u6df1\u5733\uff09"}{"title": "TME-Moo\u97f3\u4e50\u4ea4\u4e92\u8bbe\u8ba1\uff08\u6df1\u5733\uff09"}{"title": "TEG13-\u8fd0\u8425\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "22989-\u817e\u8baf\u4e91\u52a0\u901f\u4e2d\u5fc3PHP\u9ad8\u7ea7\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "22989-\u817e\u8baf\u4e91\u52a0\u901f\u4e2d\u5fc3C++\u9ad8\u7ea7\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "22989-PHP\u540e\u53f0\u9ad8\u7ea7\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "18796-Android\u5ba2\u6237\u7aef\u5f00\u53d1\u5de5\u7a0b\u5e08"}{"title": "CSIG18-\u5b89\u5168\u54a8\u8be2"}{"title": "26563-PC\u5ba2\u6237\u7aef\u5f00\u53d1\u5de5\u7a0b\u5e08(\u6df1\u5733\uff09"}{"title": "TME-Moo\u97f3\u4e50\u5185\u5bb9\u4e13\u9898\u7f16\u8f91\uff08\u6df1\u5733\uff09"}{"title": "21309-\u6df1\u5733\u5e02\u817e\u8baf\u6559\u80b2\u79d1\u6280\u6709\u9650\u516c\u53f8\u5ba2\u670d\u4e3b\u7ba1\uff08\u6b66\u6c49\uff09"}{"title": "TME-\u817e\u8baf\u97f3\u4e50\u5a31\u4e50\u8425\u9500\u7ecf\u7406\uff08\u6df1\u5733\uff09"}{"title": "TME-QQ\u97f3\u4e50\u6e20\u9053\u8fd0\u8425\u7ecf\u7406\uff08\u6df1\u5733\uff09"}{"title": "15583-\u624b\u6e383D\u89d2\u8272\u8bbe\u8ba1\u5e08\uff08\u6df1\u5733\uff09"}{"title": "15583-unity\u6e38\u620f\u5f00\u53d1\u5de5\u7a0b\u5e08(\u6df1\u5733)"}{"title": "21309-\u6df1\u5733\u5e02\u817e\u8baf\u6559\u80b2\u79d1\u6280\u6709\u9650\u516c\u53f8\u5ba2\u670d\u4e13\u5458\uff08\u6b66\u6c49\uff09"}{"title": "21309-\u6df1\u5733\u5e02\u817e\u8baf\u6559\u80b2\u79d1\u6280\u6709\u9650\u516c\u53f8\u9009\u8058\u4e3b\u7ba1\uff08\u6b66\u6c49\uff09"}{"title": "21309-\u6df1\u5733\u5e02\u817e\u8baf\u6559\u80b2\u79d1\u6280\u6709\u9650\u516c\u53f8\u884c\u653f\u4e13\u5458\uff08\u6b66\u6c49\uff09"}{"title": "21309-\u6df1\u5733\u5e02\u817e\u8baf\u6559\u80b2\u79d1\u6280\u6709\u9650\u516c\u53f8\u8d28\u68c0\u4e3b\u7ba1\uff08\u6b66\u6c49\uff09"}{"title": "21309-\u6df1\u5733\u5e02\u817e\u8baf\u6559\u80b2\u79d1\u6280\u6709\u9650\u516c\u53f8IT\u8fd0\u7ef4\u4e13\u5458\uff08\u6b66\u6c49\uff09"}{"title": "21309-\u6df1\u5733\u5e02\u817e\u8baf\u6559\u80b2\u79d1\u6280\u6709\u9650\u516c\u53f8\u8d28\u68c0\u4e13\u5458\uff08\u6b66\u6c49\uff09"}{"title": "CSIG07-\u4ea7\u54c1\u5e02\u573a\u7ecf\u7406\uff08\u6df1\u5733\uff09"}{"title": "21309-21309-\u6df1\u5733\u5e02\u817e\u8baf\u6559\u80b2\u79d1\u6280\u6709\u9650\u516c\u53f8\u8bfe\u7a0b\u987e\u95ee\uff08\u6b66\u6c49\uff09"}{"title": "21309-\u6df1\u5733\u5e02\u817e\u8baf\u6559\u80b2\u79d1\u6280\u6709\u9650\u516c\u53f8\u5e08\u8bad\u4e3b\u7ba1\uff08\u6b66\u6c49\uff09"}{"title": "21309-\u6df1\u5733\u5e02\u817e\u8baf\u6559\u80b2\u79d1\u6280\u6709\u9650\u516c\u53f8\u5e08\u8bad\u4e13\u5458(\u6b66\u6c49\uff09"}{"title": "21309-\u6df1\u5733\u5e02\u817e\u8baf\u6559\u80b2\u79d1\u6280\u6709\u9650\u516c\u53f8\u8f85\u5bfc\u8001\u5e08(\u6b66\u6c49\uff09"}{"title": "CSIG16-\u817e\u8baf\u5730\u56fe\u4f4d\u7f6e\u670d\u52a1\u89c6\u89c9\u8bbe\u8ba1\u5e08\uff08\u5317\u4eac\uff09"}{"title": "25666-\u91d1\u878d\u4e91\u4e1a\u52a1\u62d3\u5c55\u603b\u76d1\uff08\u5317\u4eac\uff09"}{"title": "CDG064-web\u524d\u7aef\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u4e0a\u6d77\uff09"}{"title": "TME-\u5168\u6c11K\u6b4c\u89c6\u9891\u7c7b\u65b0\u4ea7\u54c1\u540e\u53f0\u5f00\u53d1\uff08\u6df1\u5733\uff09"}{"title": "21309-\u6df1\u5733\u5e02\u817e\u8baf\u6559\u80b2\u79d1\u6280\u6709\u9650\u516c\u53f8\u9500\u552e\u603b\u76d1\uff08\u6b66\u6c49\uff09"}{"title": "21309-\u6df1\u5733\u5e02\u817e\u8baf\u6559\u80b2\u79d1\u6280\u6709\u9650\u516c\u53f8\u9500\u552e\u4e3b\u7ba1\uff08\u6b66\u6c49\uff09"}{"title": "TME-\u817e\u8baf\u97f3\u4e50iOS\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09\uff08\u4e13\u573a\u62db\u8058\u4f1a\uff09\uff08\u6df1\u5733\uff09"}{"title": "22989-\u7269\u8054\u7f51\u8fb9\u7f18\u8ba1\u7b97\u9ad8\u7ea7\u4ea7\u54c1\u7ecf\u7406\uff08\u6df1\u5733\uff09"}{"title": "22989-\u7269\u8054\u7f51\u64cd\u4f5c\u7cfb\u7edf\u9ad8\u7ea7\u4ea7\u54c1\u7ecf\u7406\uff08\u6df1\u5733\uff09"}{"title": "22086-\u4f53\u80b2\u4ea7\u54c1\u540e\u53f0\u5f00\u53d1\uff08\u5317\u4eac\uff09"}{"title": "CSIG16-\u817e\u8baf\u5730\u56fe\u4f4d\u7f6e\u670d\u52a1\u4ea4\u4e92\u8bbe\u8ba1\u5e08\u62db\u8058\uff08\u5317\u4eac\uff09"}{"title": "25666-\u91d1\u878d\u4e91\u4e1a\u52a1\u62d3\u5c55\u603b\u76d1\uff08\u6df1\u5733\uff09"}{"title": "TME-\u817e\u8baf\u97f3\u4e50web\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u4e13\u573a\u62db\u8058\u4f1a\uff09\uff08\u6df1\u5733\uff09"}{"title": "TME-\u817e\u8baf\u97f3\u4e50C++/GO\u540e\u53f0\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09\uff08\u4e13\u573a\u62db\u8058\u4f1a\uff09"}{"title": "TEG15-\u667a\u80fd\u8fd0\u7ef4\u7b97\u6cd5\u9ad8\u7ea7\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "TEG15-web\u524d\u7aef\u5f00\u53d1\u9ad8\u7ea7\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "15611-\u6e38\u620f\u540e\u53f0\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "15616-\u9ad8\u7ea7\u52a8\u753b\u8bbe\u8ba1\u5e08"}{"title": "29912-\u8fbe\u4eba\u8fd0\u8425\u7ecf\u7406"}{"title": "WXG04-\u5fae\u4fe1\u6e38\u620f\u5e73\u53f0\u4ea7\u54c1\u7b56\u5212\uff08\u6df1\u5733\uff09"}{"title": "22090-web\u524d\u7aef\u5f00\u53d1\u5de5\u7a0b\u5e08"}{"title": "TME-\u817e\u8baf\u97f3\u4e50\u6d4b\u8bd5\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09\uff08\u4e13\u573a\u62db\u8058\u4f1a\uff09\uff08\u6df1\u5733\uff09"}{"title": "TME-\u817e\u8baf\u97f3\u4e50\u7cfb\u7edf\u6d4b\u8bd5\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09\uff08\u4e13\u573a\u62db\u8058\u4f1a\uff09\uff08\u6df1\u5733\uff09"}{"title": "TME-\u817e\u8baf\u97f3\u4e50Android\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09\uff08\u4e13\u573a\u62db\u8058\u4f1a\uff09"}{"title": "27730-Yoo\u89c6\u9891APP\u540e\u53f0\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "27730-Yoo\u89c6\u9891\u524d\u7aef\u5f00\u53d1\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "15616-\u9ad8\u7ea7\u539f\u753b\u8bbe\u8ba1\u5e08"}{"title": "15616-\u9ad8\u7ea73D\u89d2\u8272\u8bbe\u8ba1\u5e08"}{"title": "15616-\u9ad8\u7ea7\u7279\u6548\u8bbe\u8ba1\u5e08"}{"title": "15616-\u9ad8\u7ea7UI\u8bbe\u8ba1\u5e08"}{"title": "15616-\u9ad8\u7ea73D\u573a\u666f\u8bbe\u8ba1\u5e08"}{"title": "27730-Yoo\u89c6\u9891\u5546\u52a1\u62d3\u5c55\uff08\u5a31\u4e50\u65b9\u5411\uff09"}{"title": "21882-\u7b97\u6cd5\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "22989-\u817e\u8baf\u4e91\u54c1\u724c\u8bbe\u8ba1\u7ec4-\u89c6\u89c9\u8bbe\u8ba1\u5e08\uff08\u6df1\u5733\uff09"}{"title": "22989-\u817e\u8baf\u4e91\u54c1\u724c\u8bbe\u8ba1\u7ec4-\u4ea4\u4e92\u8bbe\u8ba1\u5e08\uff08\u6df1\u5733\uff09"}{"title": "16810-\u5c0f\u8bf4\u5185\u5bb9\u8fd0\u8425\u7f16\u8f91"}{"title": "PCG03-\u817e\u8baf\u65b0\u95fb\u54c1\u724c\u4f20\u64ad\u7ecf\u7406\uff08\u5317\u4eac\uff09"}{"title": "28603-111 \u5fae\u4fe1\u652f\u4ed8\u8425\u9500\u4e1a\u52a1\u5206\u6790\u5e08\uff08\u6df1\u5733\uff09"}{"title": "27553-\u817e\u8baf\u97f3\u4e50\u6d4b\u8bd5\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "23671-\u4f01\u9e45\u53f7\u5185\u5bb9\u5408\u4f5c\u8fd0\u8425\u7ecf\u7406-\u5f71\u89c6\u7efc\u884c\u4e1a\uff08\u5317\u4eac\uff09"}{"title": "22989-\u89c6\u9891\u4e91\u4ea7\u54c1\u8fd0\u8425\u7ecf\u7406"}{"title": "29923-\u9ad8\u7ea7\u89c6\u89c9\u8bbe\u8ba1\u5e08"}{"title": "29923-\u52a8\u6548\u89c6\u89c9\u8bbe\u8ba1\u5e08"}{"title": "19837-\u5f71\u89c6\u4f20\u64ad\u7ecf\u7406\uff08\u5317\u4eac\uff09"}{"title": "PCG07-\u540e\u53f0\u5e73\u53f0\u5f00\u53d1\uff08\u6df1\u5733\uff09"}{"title": "PCG10-\u641c\u7d22\u9ad8\u7ea7\u7b97\u6cd5\u5de5\u7a0b\u5e08-\u56fe\u50cf\u65b9\u5411"}{"title": "CSIG02-\u667a\u6167\u793e\u533a\u4ea7\u54c1\u8fd0\u8425\u7ecf\u7406\uff08\u6df1\u5733\uff09"}{"title": "ZSC-Senior Patent Counsel/Expert"}{"title": "17467-\u793e\u4ea4\u9ad8\u7ea7\u54c1\u724c\u7ecf\u7406"}{"title": "29923-QQ\u4ea4\u4e92\u8bbe\u8ba1\u5e08"}{"title": "PCG19-\u817e\u8baf\u89c6\u9891\u793e\u533a\u4ea7\u54c1\u7ecf\u7406\uff08\u6df1\u5733\uff09"}{"title": "22851-\u817e\u8baf\u89c6\u9891\u91cd\u70b9\u9875\u9762\u8fd0\u8425\u7f16\u8f91\uff08\u5317\u4eac\uff09"}{"title": "22851-\u817e\u8baf\u89c6\u9891-\u77ed\u89c6\u9891\u8fd0\u8425"}{"title": "PCG07-\u540e\u53f0\u5e73\u53f0\u5f00\u53d1\uff08\u6df1\u5733\uff09"}{"title": "TEG11-\u641c\u7d22\u540e\u53f0\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "CSIG02-\u817e\u8baf\u4e91\u884c\u4e1a\u4ea4\u4ed8\u67b6\u6784\u5e08\uff08\u6df1\u5733\uff09"}{"title": "23671-\u4f01\u9e45\u53f7\u5e73\u53f0\u4ea7\u54c1\u8fd0\u8425\u7ecf\u7406\uff08\u5408\u4f5c\u4ea7\u54c1\u65b9\u5411\uff09"}{"title": "PCG05-\u9ad8\u7ea7\u5185\u5bb9\u5b89\u5168\u6570\u636e\u5206\u6790\u5de5\u7a0b\u5e08\uff08\u5317\u4eac\uff09"}{"title": "PCG19-\u817e\u8baf\u89c6\u9891\u79fb\u52a8\u7aef\u4ea7\u54c1\u7ecf\u7406\uff08\u6df1\u5733\uff09"}{"title": "SH-\u653f\u5e9c\u4e8b\u52a1\u7ecf\u7406"}{"title": "15616-\u9ad8\u7ea7\u624b\u6e38\u7cfb\u7edf\u7b56\u5212\uff08\u4e0a\u6d77\uff09"}{"title": "23671-\u4f01\u9e45\u53f7\u5185\u5bb9\u4ea7\u54c1\u8fd0\u8425\u7ecf\u7406\uff08\u4ea7\u54c1\u65b9\u5411\uff09"}{"title": "23671-\u4f01\u9e45\u53f7\u5185\u5bb9\u4ea7\u54c1\u8fd0\u8425\u7ecf\u7406\uff08\u4ea7\u54c1\u65b9\u5411\uff09"}{"title": "23671-\u4f01\u9e45\u53f7\u5e73\u53f0\u4ea7\u54c1\u8fd0\u8425\u7ecf\u7406\uff08\u5408\u4f5c\u4ea7\u54c1\u65b9\u5411\uff09"}{"title": "CSIG08-WiFi\u4ea7\u54c1\u8fd0\u8425\u7ec4\u957f\uff08\u5e7f\u5dde\uff09"}{"title": "15570-\u65b0\u9879\u76ee\u8d44\u6df1\u4e3b\u7f8e\uff08\u6df1\u5733\uff09"}{"title": "25927-\u9ad8\u7ea7\u6d4b\u8bd5\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "CS-\u516c\u76ca\u9879\u76ee\u65b0\u95fb\u4f20\u64ad"}{"title": "27730-Yoo\u89c6\u9891\u5546\u52a1\u62d3\u5c55\uff08\u52a8\u6f2b\u4e8c\u6b21\u5143\u54c1\u7c7b\uff09"}{"title": "TEG02-\u670d\u52a1\u5668\u8fd0\u8425\u9ad8\u7ea7\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "TEG02-\u8fd0\u8425\u6d41\u7a0b\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "22989-\u4e13\u6709\u4e91\u9ad8\u7ea7\u524d\u7aefweb\u5f00\u53d1\u5de5\u7a0b\u5e08"}{"title": "28481-\u533b\u7597\u5927\u6570\u636e\u4ea7\u54c1\u7ecf\u7406\uff08\u6df1\u5733\uff09"}{"title": "18432-\u5fae\u9ec4\u91d1\u4ea7\u54c1\u8fd0\u8425\u7ecf\u7406"}{"title": "CSIG02-\u817e\u8baf\u4e91\u8425\u9500\u4ea7\u54c1\u7ecf\u7406\uff08\u5317\u4eac\uff09"}{"title": "PCG10-QQ\u6d4f\u89c8\u5668\u89c6\u9891\u524d\u7aef\u5f00\u53d1\u5de5\u7a0b\u5e08"}{"title": "19332-\u9ad8\u7ea7PHP\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u4e0a\u6d77\uff09"}{"title": "23671-\u4f01\u9e45\u53f7\u524d\u7aef\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "22090-\u5929\u5929\u5feb\u62a5-NLP\u5de5\u7a0b\u5e08\uff08\u5317\u4eac\uff09"}{"title": "27092-\u5546\u4e1a\u5316\u7b56\u7565\u4ea7\u54c1\u7ecf\u7406\uff08\u6df1\u5733\uff09"}{"title": "PCG14-\u5546\u4e1a\u5316\u7b56\u7565\u4ea7\u54c1\u7ecf\u7406\uff08\u6df1\u5733\uff09"}{"title": "22851-\u817e\u8baf\u89c6\u9891\u7535\u89c6\u5267\u8fd0\u8425\u5c97\u4f4d\uff08\u5929\u6d25\uff09"}{"title": "22090-\u5e94\u7528\u5e73\u53f0\u7ec4\u7ec4\u957f/\u526f\u7ec4\u957f"}{"title": "22090-\u63a5\u5165\u540e\u53f0\u7ec4\u7ec4\u957f/\u526f\u7ec4\u957f"}{"title": "22086-\u817e\u8baf\u4f53\u80b2\u4ea7\u54c1\u7ecf\u7406\uff08\u5317\u4eac\uff09"}{"title": "22090-\u7528\u6237\u589e\u957f\u7ec4\u957f"}{"title": "22090-\u5929\u5929\u5feb\u62a5-\u6570\u636e\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u5317\u4eac\uff09"}{"title": "PCG14-\u4e8c\u6b21\u5143\u7c7b\u4ea7\u54c1\u8fd0\u8425\uff08\u6df1\u5733\uff09"}{"title": "TME-Moo\u97f3\u4e50Android\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "TME-Moo\u97f3\u4e50\u540e\u53f0\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "22989-\u817e\u8baf\u4e91\u5757\u5b58\u50a8\u4ea7\u54c1\u7ecf\u7406\uff08\u6df1\u5733\uff09"}{"title": "22086-\u4f53\u80b2\u89c6\u9891\u8282\u76ee\u8d1f\u8d23\u4eba"}{"title": "22090-\u63a8\u8350\u5f15\u64ce\u5f00\u53d1\u5de5\u7a0b\u5e08"}{"title": "CSIG17-\u9ad8\u7ea7\u8d28\u91cf\u7ba1\u7406\u5de5\u7a0b\u5e08"}{"title": "24548-\u827a\u4eba\u7ecf\u7eaa\u5546\u52a1\u7ecf\u7406"}{"title": "29777-\u4e91\u5e02\u573a\u9ad8\u7ea7\u540e\u53f0\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "29777-\u5de5\u4e1a\u6d88\u8d39\u54c1\u9ad8\u7ea7\u4ea7\u54c1\u7ecf\u7406\uff08\u6df1\u5733\uff09"}{"title": "TME-Moo\u97f3\u4e50iOS\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "CS-\u9879\u76ee\u7ecf\u7406"}{"title": "CSIG16-\u8d22\u52a1\u7ecf\u7406"}{"title": "TEG02-\u81ea\u7814\u4ea4\u6362\u673a\u6d4b\u8bd5\u9ad8\u7ea7\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "CSIG16-\u6570\u636e\u751f\u4ea7\u5de5\u7a0b\u5e08"}{"title": "CSIG16-\u6570\u636e\u751f\u4ea7\u4e13\u5458"}{"title": "CSIG16-\u6570\u636e\u8d28\u91cf\u4e3b\u7ba1"}{"title": "CSIG16-\u6570\u636e\u8d28\u91cf\u5de5\u7a0b\u5e08"}{"title": "CSIG16-\u6570\u636e\u8d28\u91cf\u4e13\u5458"}{"title": "CSIG16-\u7efc\u5408\u7ba1\u7406\u90e8\u4e3b\u7ba1"}{"title": "CSIG16-\u7efc\u5408\u7ba1\u7406\u4e13\u5458"}{"title": "15571-\u8d44\u6df13D\u89d2\u8272\u8bbe\u8ba1\u5e08\uff08\u6df1\u5733\uff09"}{"title": "23671-\u4f01\u9e45\u53f7\u533a\u57df\u5185\u5bb9\u8fd0\u8425\uff08\u5317\u4eac\uff09"}{"title": "23671-\u4f01\u9e45\u53f7\u533a\u57df\u751f\u6001\u8fd0\u8425\uff08\u5317\u4eac\uff09"}{"title": "TEG06-\u4f01\u4e1a\u5185\u7f51\u5b89\u5168\u4ea7\u54c1\u7ecf\u7406\uff08\u6df1\u5733\uff09"}{"title": "29315-\u57f9\u8bad\u7ecf\u7406"}{"title": "CSIG16-\u6570\u636e\u751f\u4ea7\u4e3b\u7ba1"}{"title": "23671-\u4f17\u521b\u7a7a\u95f4\u533a\u57df\u8fd0\u8425\u7ecf\u7406\uff08\u4e0a\u6d77\uff09"}{"title": "17759-\u817e\u8baf\u89c6\u9891\u6570\u636e\u5206\u6790\u5e08"}{"title": "CSIG17-\u8d44\u6df1\u6d4b\u8bd5\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "29777-\u817e\u8baf\u4e91\u751f\u6001\u4ea7\u54c1\u8fd0\u8425\u7ecf\u7406 \uff08\u6df1\u5733/\u5317\u4eac/\u4e0a\u6d77\uff09"}{"title": "23674-\u65b0\u95fb\u63a8\u8350\u7b97\u6cd5\u9ad8\u7ea7\u5de5\u7a0b\u5e08\uff08\u5317\u4eac\uff09"}{"title": "PCG07-\u793e\u4ea4\u5e73\u53f0Android\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "TEG03-\u5927\u6570\u636e\u5f00\u53d1\u5de5\u7a0b\u5e08(\u6df1\u5733\uff09"}{"title": "PCG17-\u9ad8\u7ea7\u4ea7\u54c1\u8fd0\u8425\u7ecf\u7406\uff08\u6df1\u5733\uff09"}{"title": "TEG03-\u7b97\u6cd5\u4e13\u5bb6\uff08\u6df1\u5733\uff09"}{"title": "CSIG16-\u8f66\u8054\u7f51\u9879\u76ee\u7ecf\u7406\uff08\u5317\u4eac\uff09"}{"title": "TME-Moo\u97f3\u4e50\u89c6\u89c9\u8bbe\u8ba1\uff08\u6df1\u5733\uff09"}{"title": "25923-CodeCC\u9ad8\u7ea7\u540e\u53f0\u5f00\u53d1\u5de5\u7a0b\u5e08"}{"title": "25923-\u9ad8\u7ea7\u5de5\u5177\u5f00\u53d1\u5de5\u7a0b\u5e08"}{"title": "CSIG02-\u817e\u8baf\u4e91\u884c\u4e1a\u65b9\u6848\u67b6\u6784\u5e08\uff08\u5317\u4eac/\u4e0a\u6d77/\u6df1\u5733/\u6210\u90fd\uff09"}{"title": "18402-MMO\u624b\u6e38\u5e73\u53f0\u6e20\u9053\u8fd0\u8425"}{"title": "20589-\u5546\u52a1\u62d3\u5c55\uff08\u6df1\u5733\u603b\u90e8\uff09"}{"title": "28600-211 \u5fae\u4fe1\u652f\u4ed8\u670d\u52a1\u5546\u4e1a\u52a1\u8fd0\u8425\u7ecf\u7406\uff08\u6df1\u5733\uff09"}{"title": "TME-\u817e\u8baf\u97f3\u4e50\u97f3\u4e50\u66f2\u5e93\u8fd0\u8425\uff08\u6df1\u5733\uff09"}{"title": "TME-Moo\u97f3\u4e50\u7cfb\u7edf\u6d4b\u8bd5\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "TME-MOO\u97f3\u4e50\u4ea7\u54c1\u8fd0\u8425\uff08\u6df1\u5733\uff09"}{"title": "TME-Moo\u97f3\u4e50\u89c6\u9891\u8fd0\u8425\u7f16\u8f91\uff08\u6df1\u5733\uff09"}{"title": "TME-Moo\u97f3\u4e50\u4ea4\u4e92\u8bbe\u8ba1\uff08\u6df1\u5733\uff09"}{"title": "TEG13-\u8fd0\u8425\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "22989-\u817e\u8baf\u4e91\u52a0\u901f\u4e2d\u5fc3PHP\u9ad8\u7ea7\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "22989-\u817e\u8baf\u4e91\u52a0\u901f\u4e2d\u5fc3C++\u9ad8\u7ea7\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "22989-PHP\u540e\u53f0\u9ad8\u7ea7\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "18796-Android\u5ba2\u6237\u7aef\u5f00\u53d1\u5de5\u7a0b\u5e08"}{"title": "CSIG18-\u5b89\u5168\u54a8\u8be2"}{"title": "26563-PC\u5ba2\u6237\u7aef\u5f00\u53d1\u5de5\u7a0b\u5e08(\u6df1\u5733\uff09"}{"title": "TME-Moo\u97f3\u4e50\u5185\u5bb9\u4e13\u9898\u7f16\u8f91\uff08\u6df1\u5733\uff09"}{"title": "21309-\u6df1\u5733\u5e02\u817e\u8baf\u6559\u80b2\u79d1\u6280\u6709\u9650\u516c\u53f8\u5ba2\u670d\u4e3b\u7ba1\uff08\u6b66\u6c49\uff09"}{"title": "TME-\u817e\u8baf\u97f3\u4e50\u5a31\u4e50\u8425\u9500\u7ecf\u7406\uff08\u6df1\u5733\uff09"}{"title": "TME-QQ\u97f3\u4e50\u6e20\u9053\u8fd0\u8425\u7ecf\u7406\uff08\u6df1\u5733\uff09"}{"title": "15583-\u624b\u6e383D\u89d2\u8272\u8bbe\u8ba1\u5e08\uff08\u6df1\u5733\uff09"}{"title": "15583-unity\u6e38\u620f\u5f00\u53d1\u5de5\u7a0b\u5e08(\u6df1\u5733)"}{"title": "21309-\u6df1\u5733\u5e02\u817e\u8baf\u6559\u80b2\u79d1\u6280\u6709\u9650\u516c\u53f8\u5ba2\u670d\u4e13\u5458\uff08\u6b66\u6c49\uff09"}{"title": "21309-\u6df1\u5733\u5e02\u817e\u8baf\u6559\u80b2\u79d1\u6280\u6709\u9650\u516c\u53f8\u9009\u8058\u4e3b\u7ba1\uff08\u6b66\u6c49\uff09"}{"title": "21309-\u6df1\u5733\u5e02\u817e\u8baf\u6559\u80b2\u79d1\u6280\u6709\u9650\u516c\u53f8\u884c\u653f\u4e13\u5458\uff08\u6b66\u6c49\uff09"}{"title": "21309-\u6df1\u5733\u5e02\u817e\u8baf\u6559\u80b2\u79d1\u6280\u6709\u9650\u516c\u53f8\u8d28\u68c0\u4e3b\u7ba1\uff08\u6b66\u6c49\uff09"}{"title": "21309-\u6df1\u5733\u5e02\u817e\u8baf\u6559\u80b2\u79d1\u6280\u6709\u9650\u516c\u53f8IT\u8fd0\u7ef4\u4e13\u5458\uff08\u6b66\u6c49\uff09"}{"title": "21309-\u6df1\u5733\u5e02\u817e\u8baf\u6559\u80b2\u79d1\u6280\u6709\u9650\u516c\u53f8\u8d28\u68c0\u4e13\u5458\uff08\u6b66\u6c49\uff09"}{"title": "CSIG07-\u4ea7\u54c1\u5e02\u573a\u7ecf\u7406\uff08\u6df1\u5733\uff09"}{"title": "21309-21309-\u6df1\u5733\u5e02\u817e\u8baf\u6559\u80b2\u79d1\u6280\u6709\u9650\u516c\u53f8\u8bfe\u7a0b\u987e\u95ee\uff08\u6b66\u6c49\uff09"}{"title": "21309-\u6df1\u5733\u5e02\u817e\u8baf\u6559\u80b2\u79d1\u6280\u6709\u9650\u516c\u53f8\u5e08\u8bad\u4e3b\u7ba1\uff08\u6b66\u6c49\uff09"}{"title": "21309-\u6df1\u5733\u5e02\u817e\u8baf\u6559\u80b2\u79d1\u6280\u6709\u9650\u516c\u53f8\u5e08\u8bad\u4e13\u5458(\u6b66\u6c49\uff09"}{"title": "21309-\u6df1\u5733\u5e02\u817e\u8baf\u6559\u80b2\u79d1\u6280\u6709\u9650\u516c\u53f8\u8f85\u5bfc\u8001\u5e08(\u6b66\u6c49\uff09"}{"title": "CSIG16-\u817e\u8baf\u5730\u56fe\u4f4d\u7f6e\u670d\u52a1\u89c6\u89c9\u8bbe\u8ba1\u5e08\uff08\u5317\u4eac\uff09"}{"title": "25666-\u91d1\u878d\u4e91\u4e1a\u52a1\u62d3\u5c55\u603b\u76d1\uff08\u5317\u4eac\uff09"}{"title": "CDG064-web\u524d\u7aef\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u4e0a\u6d77\uff09"}{"title": "TME-\u5168\u6c11K\u6b4c\u89c6\u9891\u7c7b\u65b0\u4ea7\u54c1\u540e\u53f0\u5f00\u53d1\uff08\u6df1\u5733\uff09"}{"title": "21309-\u6df1\u5733\u5e02\u817e\u8baf\u6559\u80b2\u79d1\u6280\u6709\u9650\u516c\u53f8\u9500\u552e\u603b\u76d1\uff08\u6b66\u6c49\uff09"}{"title": "21309-\u6df1\u5733\u5e02\u817e\u8baf\u6559\u80b2\u79d1\u6280\u6709\u9650\u516c\u53f8\u9500\u552e\u4e3b\u7ba1\uff08\u6b66\u6c49\uff09"}{"title": "TME-\u817e\u8baf\u97f3\u4e50iOS\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09\uff08\u4e13\u573a\u62db\u8058\u4f1a\uff09\uff08\u6df1\u5733\uff09"}{"title": "22989-\u7269\u8054\u7f51\u8fb9\u7f18\u8ba1\u7b97\u9ad8\u7ea7\u4ea7\u54c1\u7ecf\u7406\uff08\u6df1\u5733\uff09"}{"title": "22989-\u7269\u8054\u7f51\u64cd\u4f5c\u7cfb\u7edf\u9ad8\u7ea7\u4ea7\u54c1\u7ecf\u7406\uff08\u6df1\u5733\uff09"}{"title": "22086-\u4f53\u80b2\u4ea7\u54c1\u540e\u53f0\u5f00\u53d1\uff08\u5317\u4eac\uff09"}{"title": "CSIG16-\u817e\u8baf\u5730\u56fe\u4f4d\u7f6e\u670d\u52a1\u4ea4\u4e92\u8bbe\u8ba1\u5e08\u62db\u8058\uff08\u5317\u4eac\uff09"}{"title": "25666-\u91d1\u878d\u4e91\u4e1a\u52a1\u62d3\u5c55\u603b\u76d1\uff08\u6df1\u5733\uff09"}{"title": "TME-\u817e\u8baf\u97f3\u4e50web\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u4e13\u573a\u62db\u8058\u4f1a\uff09\uff08\u6df1\u5733\uff09"}{"title": "TME-\u817e\u8baf\u97f3\u4e50C++/GO\u540e\u53f0\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09\uff08\u4e13\u573a\u62db\u8058\u4f1a\uff09"}{"title": "TEG15-\u667a\u80fd\u8fd0\u7ef4\u7b97\u6cd5\u9ad8\u7ea7\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "TEG15-web\u524d\u7aef\u5f00\u53d1\u9ad8\u7ea7\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "15611-\u6e38\u620f\u540e\u53f0\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "15616-\u9ad8\u7ea7\u52a8\u753b\u8bbe\u8ba1\u5e08"}{"title": "29912-\u8fbe\u4eba\u8fd0\u8425\u7ecf\u7406"}{"title": "WXG04-\u5fae\u4fe1\u6e38\u620f\u5e73\u53f0\u4ea7\u54c1\u7b56\u5212\uff08\u6df1\u5733\uff09"}{"title": "22090-web\u524d\u7aef\u5f00\u53d1\u5de5\u7a0b\u5e08"}{"title": "TME-\u817e\u8baf\u97f3\u4e50\u6d4b\u8bd5\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09\uff08\u4e13\u573a\u62db\u8058\u4f1a\uff09\uff08\u6df1\u5733\uff09"}{"title": "TME-\u817e\u8baf\u97f3\u4e50\u7cfb\u7edf\u6d4b\u8bd5\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09\uff08\u4e13\u573a\u62db\u8058\u4f1a\uff09\uff08\u6df1\u5733\uff09"}{"title": "TME-\u817e\u8baf\u97f3\u4e50Android\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09\uff08\u4e13\u573a\u62db\u8058\u4f1a\uff09"}{"title": "27730-Yoo\u89c6\u9891APP\u540e\u53f0\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "27730-Yoo\u89c6\u9891\u524d\u7aef\u5f00\u53d1\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "15616-\u9ad8\u7ea7\u539f\u753b\u8bbe\u8ba1\u5e08"}{"title": "15616-\u9ad8\u7ea73D\u89d2\u8272\u8bbe\u8ba1\u5e08"}{"title": "15616-\u9ad8\u7ea7\u7279\u6548\u8bbe\u8ba1\u5e08"}{"title": "15616-\u9ad8\u7ea7UI\u8bbe\u8ba1\u5e08"}{"title": "15616-\u9ad8\u7ea73D\u573a\u666f\u8bbe\u8ba1\u5e08"}{"title": "27730-Yoo\u89c6\u9891\u5546\u52a1\u62d3\u5c55\uff08\u5a31\u4e50\u65b9\u5411\uff09"}{"title": "21882-\u7b97\u6cd5\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "22989-\u817e\u8baf\u4e91\u54c1\u724c\u8bbe\u8ba1\u7ec4-\u89c6\u89c9\u8bbe\u8ba1\u5e08\uff08\u6df1\u5733\uff09"}{"title": "22989-\u817e\u8baf\u4e91\u54c1\u724c\u8bbe\u8ba1\u7ec4-\u4ea4\u4e92\u8bbe\u8ba1\u5e08\uff08\u6df1\u5733\uff09"}{"title": "16810-\u5c0f\u8bf4\u5185\u5bb9\u8fd0\u8425\u7f16\u8f91"}{"title": "PCG03-\u817e\u8baf\u65b0\u95fb\u54c1\u724c\u4f20\u64ad\u7ecf\u7406\uff08\u5317\u4eac\uff09"}{"title": "28603-111 \u5fae\u4fe1\u652f\u4ed8\u8425\u9500\u4e1a\u52a1\u5206\u6790\u5e08\uff08\u6df1\u5733\uff09"}{"title": "27553-\u817e\u8baf\u97f3\u4e50\u6d4b\u8bd5\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "23671-\u4f01\u9e45\u53f7\u5185\u5bb9\u5408\u4f5c\u8fd0\u8425\u7ecf\u7406-\u5f71\u89c6\u7efc\u884c\u4e1a\uff08\u5317\u4eac\uff09"}{"title": "22989-\u89c6\u9891\u4e91\u4ea7\u54c1\u8fd0\u8425\u7ecf\u7406"}{"title": "29923-\u9ad8\u7ea7\u89c6\u89c9\u8bbe\u8ba1\u5e08"}{"title": "29923-\u52a8\u6548\u89c6\u89c9\u8bbe\u8ba1\u5e08"}{"title": "19837-\u5f71\u89c6\u4f20\u64ad\u7ecf\u7406\uff08\u5317\u4eac\uff09"}{"title": "PCG07-\u540e\u53f0\u5e73\u53f0\u5f00\u53d1\uff08\u6df1\u5733\uff09"}{"title": "PCG10-\u641c\u7d22\u9ad8\u7ea7\u7b97\u6cd5\u5de5\u7a0b\u5e08-\u56fe\u50cf\u65b9\u5411"}{"title": "CSIG02-\u667a\u6167\u793e\u533a\u4ea7\u54c1\u8fd0\u8425\u7ecf\u7406\uff08\u6df1\u5733\uff09"}{"title": "ZSC-Senior Patent Counsel/Expert"}{"title": "17467-\u793e\u4ea4\u9ad8\u7ea7\u54c1\u724c\u7ecf\u7406"}{"title": "29923-QQ\u4ea4\u4e92\u8bbe\u8ba1\u5e08"}{"title": "PCG19-\u817e\u8baf\u89c6\u9891\u793e\u533a\u4ea7\u54c1\u7ecf\u7406\uff08\u6df1\u5733\uff09"}{"title": "22851-\u817e\u8baf\u89c6\u9891\u91cd\u70b9\u9875\u9762\u8fd0\u8425\u7f16\u8f91\uff08\u5317\u4eac\uff09"}{"title": "22851-\u817e\u8baf\u89c6\u9891-\u77ed\u89c6\u9891\u8fd0\u8425"}{"title": "PCG07-\u540e\u53f0\u5e73\u53f0\u5f00\u53d1\uff08\u6df1\u5733\uff09"}{"title": "TEG11-\u641c\u7d22\u540e\u53f0\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "CSIG02-\u817e\u8baf\u4e91\u884c\u4e1a\u4ea4\u4ed8\u67b6\u6784\u5e08\uff08\u6df1\u5733\uff09"}{"title": "23671-\u4f01\u9e45\u53f7\u5e73\u53f0\u4ea7\u54c1\u8fd0\u8425\u7ecf\u7406\uff08\u5408\u4f5c\u4ea7\u54c1\u65b9\u5411\uff09"}{"title": "PCG05-\u9ad8\u7ea7\u5185\u5bb9\u5b89\u5168\u6570\u636e\u5206\u6790\u5de5\u7a0b\u5e08\uff08\u5317\u4eac\uff09"}{"title": "PCG19-\u817e\u8baf\u89c6\u9891\u79fb\u52a8\u7aef\u4ea7\u54c1\u7ecf\u7406\uff08\u6df1\u5733\uff09"}{"title": "SH-\u653f\u5e9c\u4e8b\u52a1\u7ecf\u7406"}{"title": "15616-\u9ad8\u7ea7\u624b\u6e38\u7cfb\u7edf\u7b56\u5212\uff08\u4e0a\u6d77\uff09"}{"title": "23671-\u4f01\u9e45\u53f7\u5185\u5bb9\u4ea7\u54c1\u8fd0\u8425\u7ecf\u7406\uff08\u4ea7\u54c1\u65b9\u5411\uff09"}{"title": "23671-\u4f01\u9e45\u53f7\u5185\u5bb9\u4ea7\u54c1\u8fd0\u8425\u7ecf\u7406\uff08\u4ea7\u54c1\u65b9\u5411\uff09"}{"title": "23671-\u4f01\u9e45\u53f7\u5e73\u53f0\u4ea7\u54c1\u8fd0\u8425\u7ecf\u7406\uff08\u5408\u4f5c\u4ea7\u54c1\u65b9\u5411\uff09"}{"title": "CSIG08-WiFi\u4ea7\u54c1\u8fd0\u8425\u7ec4\u957f\uff08\u5e7f\u5dde\uff09"}{"title": "15570-\u65b0\u9879\u76ee\u8d44\u6df1\u4e3b\u7f8e\uff08\u6df1\u5733\uff09"}{"title": "25927-\u9ad8\u7ea7\u6d4b\u8bd5\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "CS-\u516c\u76ca\u9879\u76ee\u65b0\u95fb\u4f20\u64ad"}{"title": "27730-Yoo\u89c6\u9891\u5546\u52a1\u62d3\u5c55\uff08\u52a8\u6f2b\u4e8c\u6b21\u5143\u54c1\u7c7b\uff09"}{"title": "TEG02-\u670d\u52a1\u5668\u8fd0\u8425\u9ad8\u7ea7\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "TEG02-\u8fd0\u8425\u6d41\u7a0b\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "22989-\u4e13\u6709\u4e91\u9ad8\u7ea7\u524d\u7aefweb\u5f00\u53d1\u5de5\u7a0b\u5e08"}{"title": "28481-\u533b\u7597\u5927\u6570\u636e\u4ea7\u54c1\u7ecf\u7406\uff08\u6df1\u5733\uff09"}{"title": "18432-\u5fae\u9ec4\u91d1\u4ea7\u54c1\u8fd0\u8425\u7ecf\u7406"}{"title": "CSIG02-\u817e\u8baf\u4e91\u8425\u9500\u4ea7\u54c1\u7ecf\u7406\uff08\u5317\u4eac\uff09"}{"title": "PCG10-QQ\u6d4f\u89c8\u5668\u89c6\u9891\u524d\u7aef\u5f00\u53d1\u5de5\u7a0b\u5e08"}{"title": "19332-\u9ad8\u7ea7PHP\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u4e0a\u6d77\uff09"}{"title": "23671-\u4f01\u9e45\u53f7\u524d\u7aef\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "22090-\u5929\u5929\u5feb\u62a5-NLP\u5de5\u7a0b\u5e08\uff08\u5317\u4eac\uff09"}{"title": "27092-\u5546\u4e1a\u5316\u7b56\u7565\u4ea7\u54c1\u7ecf\u7406\uff08\u6df1\u5733\uff09"}{"title": "PCG14-\u5546\u4e1a\u5316\u7b56\u7565\u4ea7\u54c1\u7ecf\u7406\uff08\u6df1\u5733\uff09"}{"title": "22851-\u817e\u8baf\u89c6\u9891\u7535\u89c6\u5267\u8fd0\u8425\u5c97\u4f4d\uff08\u5929\u6d25\uff09"}{"title": "22090-\u5e94\u7528\u5e73\u53f0\u7ec4\u7ec4\u957f/\u526f\u7ec4\u957f"}{"title": "22090-\u63a5\u5165\u540e\u53f0\u7ec4\u7ec4\u957f/\u526f\u7ec4\u957f"}{"title": "22086-\u817e\u8baf\u4f53\u80b2\u4ea7\u54c1\u7ecf\u7406\uff08\u5317\u4eac\uff09"}{"title": "22090-\u7528\u6237\u589e\u957f\u7ec4\u957f"}{"title": "22090-\u5929\u5929\u5feb\u62a5-\u6570\u636e\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u5317\u4eac\uff09"}{"title": "PCG14-\u4e8c\u6b21\u5143\u7c7b\u4ea7\u54c1\u8fd0\u8425\uff08\u6df1\u5733\uff09"}{"title": "TME-Moo\u97f3\u4e50Android\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "TME-Moo\u97f3\u4e50\u540e\u53f0\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "22989-\u817e\u8baf\u4e91\u5757\u5b58\u50a8\u4ea7\u54c1\u7ecf\u7406\uff08\u6df1\u5733\uff09"}{"title": "22086-\u4f53\u80b2\u89c6\u9891\u8282\u76ee\u8d1f\u8d23\u4eba"}{"title": "22090-\u63a8\u8350\u5f15\u64ce\u5f00\u53d1\u5de5\u7a0b\u5e08"}{"title": "CSIG17-\u9ad8\u7ea7\u8d28\u91cf\u7ba1\u7406\u5de5\u7a0b\u5e08"}{"title": "24548-\u827a\u4eba\u7ecf\u7eaa\u5546\u52a1\u7ecf\u7406"}{"title": "29777-\u4e91\u5e02\u573a\u9ad8\u7ea7\u540e\u53f0\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "29777-\u5de5\u4e1a\u6d88\u8d39\u54c1\u9ad8\u7ea7\u4ea7\u54c1\u7ecf\u7406\uff08\u6df1\u5733\uff09"}{"title": "TME-Moo\u97f3\u4e50iOS\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "CS-\u9879\u76ee\u7ecf\u7406"}{"title": "CSIG16-\u8d22\u52a1\u7ecf\u7406"}{"title": "TEG02-\u81ea\u7814\u4ea4\u6362\u673a\u6d4b\u8bd5\u9ad8\u7ea7\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "CSIG16-\u6570\u636e\u751f\u4ea7\u5de5\u7a0b\u5e08"}{"title": "CSIG16-\u6570\u636e\u751f\u4ea7\u4e13\u5458"}{"title": "CSIG16-\u6570\u636e\u8d28\u91cf\u4e3b\u7ba1"}{"title": "CSIG16-\u6570\u636e\u8d28\u91cf\u5de5\u7a0b\u5e08"}{"title": "CSIG16-\u6570\u636e\u8d28\u91cf\u4e13\u5458"}{"title": "CSIG16-\u7efc\u5408\u7ba1\u7406\u90e8\u4e3b\u7ba1"}{"title": "CSIG16-\u7efc\u5408\u7ba1\u7406\u4e13\u5458"}{"title": "15571-\u8d44\u6df13D\u89d2\u8272\u8bbe\u8ba1\u5e08\uff08\u6df1\u5733\uff09"}{"title": "23671-\u4f01\u9e45\u53f7\u533a\u57df\u5185\u5bb9\u8fd0\u8425\uff08\u5317\u4eac\uff09"}{"title": "23671-\u4f01\u9e45\u53f7\u533a\u57df\u751f\u6001\u8fd0\u8425\uff08\u5317\u4eac\uff09"}{"title": "TEG06-\u4f01\u4e1a\u5185\u7f51\u5b89\u5168\u4ea7\u54c1\u7ecf\u7406\uff08\u6df1\u5733\uff09"}{"title": "29315-\u57f9\u8bad\u7ecf\u7406"}{"title": "CSIG16-\u6570\u636e\u751f\u4ea7\u4e3b\u7ba1"}{"title": "23671-\u4f17\u521b\u7a7a\u95f4\u533a\u57df\u8fd0\u8425\u7ecf\u7406\uff08\u4e0a\u6d77\uff09"}{"title": "17759-\u817e\u8baf\u89c6\u9891\u6570\u636e\u5206\u6790\u5e08"}{"title": "CSIG17-\u8d44\u6df1\u6d4b\u8bd5\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "29777-\u817e\u8baf\u4e91\u751f\u6001\u4ea7\u54c1\u8fd0\u8425\u7ecf\u7406 \uff08\u6df1\u5733/\u5317\u4eac/\u4e0a\u6d77\uff09"}{"title": "23674-\u65b0\u95fb\u63a8\u8350\u7b97\u6cd5\u9ad8\u7ea7\u5de5\u7a0b\u5e08\uff08\u5317\u4eac\uff09"}{"title": "PCG07-\u793e\u4ea4\u5e73\u53f0Android\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "TEG03-\u5927\u6570\u636e\u5f00\u53d1\u5de5\u7a0b\u5e08(\u6df1\u5733\uff09"}{"title": "PCG17-\u9ad8\u7ea7\u4ea7\u54c1\u8fd0\u8425\u7ecf\u7406\uff08\u6df1\u5733\uff09"}{"title": "TEG03-\u7b97\u6cd5\u4e13\u5bb6\uff08\u6df1\u5733\uff09"}{"title": "23295-\u4e92\u5a31PHP\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "TEG05-\u540e\u53f0\u7cfb\u7edf\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "TEG02-JAVA\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "TME-QQ\u97f3\u4e50\u5546\u52a1\u8fd0\u8425\u7ecf\u7406\uff08\u6df1\u5733\uff09"}{"title": "23295-\u4e92\u5a31\u793e\u533a\u540e\u53f0\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "TEG03-\u65b0\u96f6\u552e\u4ea7\u54c1\u7ecf\u7406\uff08\u6df1\u5733\uff09"}{"title": "29522-Assistant producer\uff08Shenzhen\uff09"}{"title": "23671-\u817e\u8baftopic\u57fa\u91d1\u6295\u8d44\u7ecf\u7406\uff08\u6df1\u5733\uff09"}{"title": "23671-\u53cc\u767e\u8ba1\u5212\u6295\u8d44\u516c\u53f8\u5e02\u573a\u8fd0\u8425\u7ecf\u7406\uff08\u6df1\u5733\uff09"}{"title": "16810-\u817e\u8baf\u52a8\u6f2b\u4ea7\u54c1\u7b56\u5212\u7ecf\u7406\uff08\u6df1\u5733\uff09"}{"title": "21528-\u5546\u52a1\u62d3\u5c55\uff08\u53e4\u98ce\u3001\u4e8c\u6b21\u5143\u65b9\u5411\uff09\uff08\u5317\u4eac\uff09"}{"title": "TME-QQ\u97f3\u4e50BD\u8fd0\u8425\u7ecf\u7406\uff08\u6df1\u5733\uff09"}{"title": "28600-211 \u5fae\u4fe1\u652f\u4ed8\u670d\u52a1\u5546\u4ea7\u54c1\u8fd0\u8425\u7ecf\u7406\uff08\u6df1\u5733\uff09"}{"title": "23671-\u6295\u8d44\u5b75\u5316\u4e2d\u5fc3\u5546\u4e1a\u5206\u6790\u5e08\uff08\u6df1\u5733\uff09"}{"title": "23671-\u6295\u540e\u7ba1\u7406\u5185\u5bb9\u8fd0\u8425\u4ea7\u54c1\u7ecf\u7406\uff08\u6df1\u5733\uff09"}{"title": "23671-\u6295\u540e\u7ba1\u7406\u5546\u4e1a\u5316\u4ea7\u54c1\u7ecf\u7406\uff08\u6df1\u5733\uff09"}{"title": "29912-\u77ed\u89c6\u9891\u9879\u76ee\u7ecf\u7406"}{"title": "20503-AI\u9879\u76ee\u7ecf\u7406"}{"title": "20503-AI\u4ea7\u54c1\u7ecf\u7406"}{"title": "21530-\u817e\u8baf\u97f3\u4e50\u4f01\u4e1a\u6587\u5316\u7ecf\u7406\uff08\u6df1\u5733\uff09"}{"title": "21528-MCN\u8fd0\u8425\uff08\u5317\u4eac\uff09"}{"title": "SA-\u817e\u8baf\u793e\u4ea4\u5e7f\u544aJava\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u4e0a\u6d77\uff09"}{"title": "28297-RPG\u624b\u6e38-\u7248\u672c\u7ba1\u7406\uff08\u6df1\u5733\uff09"}{"title": "PCG04-\u79fb\u52a8\u7aef\u6d4b\u8bd5\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u6210\u90fd\uff09"}{"title": "PCG10-QQ\u6d4f\u89c8\u5668\u5927\u8d44\u8baf\u9ad8\u7ea7\u540e\u53f0\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "CSIG16-\u5730\u56fe\u653f\u4f01\u7814\u53d1\u5de5\u7a0b\u5e08"}{"title": "21557-Android\u97f3\u89c6\u9891\u7814\u53d1\u5de5\u7a0b\u5e08"}{"title": "27087-\u9752\u817e\u6c47\u9ad8\u7ea7\u793e\u7fa4\u8fd0\u8425\u8d1f\u8d23\u4eba"}{"title": "CSIG15-\u7ffb\u8bd1\u541b\u5546\u52a1\u62d3\u5c55\uff08\u6559\u80b2\u65b9\u5411\uff09"}{"title": "25928-AI\u5ba2\u6237\u7aef\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "28966-\u6e38\u620fGUI\u89c6\u89c9\u8bbe\u8ba1\uff08\u6df1\u5733\uff09"}{"title": "TEG11-\u6570\u636e\u6316\u6398\u7814\u7a76\u5458(\u6df1\u5733\uff09"}{"title": "S2-S\u7cfb\u7edf\u8d22\u52a1\u7ba1\u7406\uff08\u6df1\u5733\uff09"}{"title": "S2-Java\u5e94\u7528\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "TEG06-C/C++\u9ad8\u7ea7\u540e\u53f0\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "26832-\u62db\u8058\u4e13\u5458"}{"title": "CSIG02-\u817e\u8baf\u4e91\u56fe\u50cf\u8bc6\u522b\u9ad8\u7ea7\u4ea7\u54c1\u7b56\u5212\u7ecf\u7406\uff08\u6df1\u5733\uff09"}{"title": "PCG07-UGC\u4ea7\u54c1\u7b56\u5212\u7ecf\u7406\uff08\u6df1\u5733\uff09"}{"title": "WXG09-321 \u9ad8\u7ea7\u5546\u52a1\u7ecf\u7406"}{"title": "WXG01-117 \u5fae\u4fe1iOS\u57fa\u7840\u4f18\u5316\u5de5\u7a0b\u5e08"}{"title": "29777-\u91d1\u878d\u4e91\u533a\u5757\u94fe\u9ad8\u7ea7\u7814\u53d1\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "WXG02-117 \u5fae\u4fe1\u5b89\u5168\u5ba2\u6237\u7aef\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u5e7f\u5dde\uff09"}{"title": "29777-\u91d1\u878d\u4e91\u533a\u5757\u94fe\u9ad8\u7ea7\u7814\u53d1\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "CSIG02-\u817e\u8baf\u4e91\u623f\u5730\u4ea7\u884c\u4e1a\u9ad8\u7ea7\u8fd0\u8425\u7ecf\u7406\uff08\u6df1\u5733\uff09"}{"title": "TME-QQ\u97f3\u4e50\u6536\u5165\u589e\u957f\u8fd0\u8425\uff08\u6df1\u5733\uff09"}{"title": "TME-\u5168\u6c11K\u6b4c\u5546\u4e1a\u4e2d\u5fc3\u540e\u53f0\u7814\u53d1\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "27730-\u63a8\u8350\u7b97\u6cd5\u9ad8\u7ea7\u5de5\u7a0b\u5e08\uff08\u5317\u4eac\uff09"}{"title": "TME-QQ\u97f3\u4e50\u97f3\u9891\u76f4\u64ad\u8fd0\u8425\uff08\u6df1\u5733\uff09"}{"title": "27730-\u77ed\u89c6\u9891\u516c\u5173\u4f20\u64ad\u7ecf\u7406\uff08\u5317\u4eac\uff09"}{"title": "TME-QQ\u97f3\u4e50\u4ea7\u54c1\u7b56\u5212\uff08\u6df1\u5733\uff09"}{"title": "TME-QQ\u97f3\u4e50\u827a\u4eba\u5173\u7cfbBD\uff08\u6df1\u5733\uff09"}{"title": "TME-QQ\u97f3\u4e50\u6d3b\u52a8\u8fd0\u8425\uff08\u6df1\u5733\uff09"}{"title": "TME-QQ\u97f3\u4e50KOL\u8fd0\u8425\uff08\u6df1\u5733\uff09"}{"title": "TME-QQ\u97f3\u4e50\u97f3\u9891\u76f4\u64ad\u8fd0\u8425\uff08\u6df1\u5733\uff09"}{"title": "19822-\u77ed\u89c6\u9891\u5236\u4f5c\u4eba"}{"title": "20772-\u5929\u9645\u5de5\u4f5c\u5ba4\u5236\u7247\u4eba"}{"title": "28605-113 \u5fae\u4fe1\u652f\u4ed8\u56fd\u9645\u5316\u8fd0\u8425\u5f00\u53d1\u5de5\u7a0b\u5e08\uff08\u6df1\u5733\uff09"}{"title": "22989-\u817e\u8baf\u4e91\u9ad8\u7ea7Web\u524d\u7aef\u7814\u53d1\u5de5\u7a0b\u5e08"}{"title": "27442-\u53cd\u821e\u5f0a\u8c03\u67e5\u7ecf\u7406\uff08\u6df1\u5733\uff09"}{"title": "24987-\u6b21\u4e16\u4ee3\u6e38\u620f\u540e\u53f0\u5f00\u53d1\uff08\u4e0a\u6d77\uff09"}{
+  "title": "CSIG16-车联网项目经理（北京）"
+}
+{
+  "title": "TME-Moo音乐视觉设计（深圳）"
+}
+{
+  "title": "25923-CodeCC高级后台开发工程师"
+}
+{
+  "title": "25923-高级工具开发工程师"
+}
+{
+  "title": "CSIG02-腾讯云行业方案架构师（北京/上海/深圳/成都）"
+}
+{
+  "title": "18402-MMO手游平台渠道运营"
+}
+{
+  "title": "20589-商务拓展（深圳总部）"
+}
+{
+  "title": "28600-211 微信支付服务商业务运营经理（深圳）"
+}
+{
+  "title": "TME-腾讯音乐音乐曲库运营（深圳）"
+}
+{
+  "title": "TME-Moo音乐系统测试工程师（深圳）"
+}
+{
+  "title": "TME-MOO音乐产品运营（深圳）"
+}
+{
+  "title": "TME-Moo音乐视频运营编辑（深圳）"
+}
+{
+  "title": "TME-Moo音乐交互设计（深圳）"
+}
+{
+  "title": "TEG13-运营开发工程师（深圳）"
+}
+{
+  "title": "22989-腾讯云加速中心PHP高级工程师（深圳）"
+}
+{
+  "title": "22989-腾讯云加速中心C++高级工程师（深圳）"
+}
+{
+  "title": "22989-PHP后台高级开发工程师（深圳）"
+}
+{
+  "title": "18796-Android客户端开发工程师"
+}
+{
+  "title": "CSIG18-安全咨询"
+}
+{
+  "title": "26563-PC客户端开发工程师(深圳）"
+}
+{
+  "title": "TME-Moo音乐内容专题编辑（深圳）"
+}
+{
+  "title": "21309-深圳市腾讯教育科技有限公司客服主管（武汉）"
+}
+{
+  "title": "TME-腾讯音乐娱乐营销经理（深圳）"
+}
+{
+  "title": "TME-QQ音乐渠道运营经理（深圳）"
+}
+{
+  "title": "15583-手游3D角色设计师（深圳）"
+}
+{
+  "title": "15583-unity游戏开发工程师(深圳)"
+}
+{
+  "title": "21309-深圳市腾讯教育科技有限公司客服专员（武汉）"
+}
+{
+  "title": "21309-深圳市腾讯教育科技有限公司选聘主管（武汉）"
+}
+{
+  "title": "21309-深圳市腾讯教育科技有限公司行政专员（武汉）"
+}
+{
+  "title": "21309-深圳市腾讯教育科技有限公司质检主管（武汉）"
+}
+{
+  "title": "21309-深圳市腾讯教育科技有限公司IT运维专员（武汉）"
+}
+{
+  "title": "21309-深圳市腾讯教育科技有限公司质检专员（武汉）"
+}
+{
+  "title": "CSIG07-产品市场经理（深圳）"
+}
+{
+  "title": "21309-21309-深圳市腾讯教育科技有限公司课程顾问（武汉）"
+}
+{
+  "title": "21309-深圳市腾讯教育科技有限公司师训主管（武汉）"
+}
+{
+  "title": "21309-深圳市腾讯教育科技有限公司师训专员(武汉）"
+}
+{
+  "title": "21309-深圳市腾讯教育科技有限公司辅导老师(武汉）"
+}
+{
+  "title": "CSIG16-腾讯地图位置服务视觉设计师（北京）"
+}
+{
+  "title": "25666-金融云业务拓展总监（北京）"
+}
+{
+  "title": "CDG064-web前端开发工程师（上海）"
+}
+{
+  "title": "TME-全民K歌视频类新产品后台开发（深圳）"
+}
+{
+  "title": "21309-深圳市腾讯教育科技有限公司销售总监（武汉）"
+}
+{
+  "title": "21309-深圳市腾讯教育科技有限公司销售主管（武汉）"
+}
+{
+  "title": "TME-腾讯音乐iOS开发工程师（深圳）（专场招聘会）（深圳）"
+}
+{
+  "title": "22989-物联网边缘计算高级产品经理（深圳）"
+}
+{
+  "title": "22989-物联网操作系统高级产品经理（深圳）"
+}
+{
+  "title": "22086-体育产品后台开发（北京）"
+}
+{
+  "title": "CSIG16-腾讯地图位置服务交互设计师招聘（北京）"
+}
+{
+  "title": "25666-金融云业务拓展总监（深圳）"
+}
+{
+  "title": "TME-腾讯音乐web开发工程师（专场招聘会）（深圳）"
+}
+{
+  "title": "TME-腾讯音乐C++/GO后台开发工程师（深圳）（专场招聘会）"
+}
+{
+  "title": "TEG15-智能运维算法高级工程师（深圳）"
+}
+{
+  "title": "TEG15-web前端开发高级工程师（深圳）"
+}
+{
+  "title": "15611-游戏后台开发工程师（深圳）"
+}
+{
+  "title": "15616-高级动画设计师"
+}
+{
+  "title": "29912-达人运营经理"
+}
+{
+  "title": "WXG04-微信游戏平台产品策划（深圳）"
+}
+{
+  "title": "22090-web前端开发工程师"
+}
+{
+  "title": "TME-腾讯音乐测试开发工程师（深圳）（专场招聘会）（深圳）"
+}
+{
+  "title": "TME-腾讯音乐系统测试工程师（深圳）（专场招聘会）（深圳）"
+}
+{
+  "title": "TME-腾讯音乐Android开发工程师（深圳）（专场招聘会）"
+}
+{
+  "title": "27730-Yoo视频APP后台开发工程师（深圳）"
+}
+{
+  "title": "27730-Yoo视频前端开发开发工程师（深圳）"
+}
+{
+  "title": "15616-高级原画设计师"
+}
+{
+  "title": "15616-高级3D角色设计师"
+}
+{
+  "title": "15616-高级特效设计师"
+}
+{
+  "title": "15616-高级UI设计师"
+}
+{
+  "title": "15616-高级3D场景设计师"
+}
+{
+  "title": "27730-Yoo视频商务拓展（娱乐方向）"
+}
+{
+  "title": "21882-算法工程师（深圳）"
+}
+{
+  "title": "22989-腾讯云品牌设计组-视觉设计师（深圳）"
+}
+{
+  "title": "22989-腾讯云品牌设计组-交互设计师（深圳）"
+}
+{
+  "title": "16810-小说内容运营编辑"
+}
+{
+  "title": "PCG03-腾讯新闻品牌传播经理（北京）"
+}
+{
+  "title": "28603-111 微信支付营销业务分析师（深圳）"
+}
+{
+  "title": "27553-腾讯音乐测试开发工程师（深圳）"
+}
+{
+  "title": "23671-企鹅号内容合作运营经理-影视综行业（北京）"
+}
+{
+  "title": "22989-视频云产品运营经理"
+}
+{
+  "title": "29923-高级视觉设计师"
+}
+{
+  "title": "29923-动效视觉设计师"
+}
+{
+  "title": "19837-影视传播经理（北京）"
+}
+{
+  "title": "PCG07-后台平台开发（深圳）"
+}
+{
+  "title": "PCG10-搜索高级算法工程师-图像方向"
+}
+{
+  "title": "CSIG02-智慧社区产品运营经理（深圳）"
+}
+{
+  "title": "ZSC-Senior Patent Counsel/Expert"
+}
+{
+  "title": "17467-社交高级品牌经理"
+}
+{
+  "title": "29923-QQ交互设计师"
+}
+{
+  "title": "PCG19-腾讯视频社区产品经理（深圳）"
+}
+{
+  "title": "22851-腾讯视频重点页面运营编辑（北京）"
+}
+{
+  "title": "22851-腾讯视频-短视频运营"
+}
+{
+  "title": "PCG07-后台平台开发（深圳）"
+}
+{
+  "title": "TEG11-搜索后台开发工程师（深圳）"
+}
+{
+  "title": "CSIG02-腾讯云行业交付架构师（深圳）"
+}
+{
+  "title": "23671-企鹅号平台产品运营经理（合作产品方向）"
+}
+{
+  "title": "PCG05-高级内容安全数据分析工程师（北京）"
+}
+{
+  "title": "PCG19-腾讯视频移动端产品经理（深圳）"
+}
+{
+  "title": "SH-政府事务经理"
+}
+{
+  "title": "15616-高级手游系统策划（上海）"
+}
+{
+  "title": "23671-企鹅号内容产品运营经理（产品方向）"
+}
+{
+  "title": "23671-企鹅号内容产品运营经理（产品方向）"
+}
+{
+  "title": "23671-企鹅号平台产品运营经理（合作产品方向）"
+}
+{
+  "title": "CSIG08-WiFi产品运营组长（广州）"
+}
+{
+  "title": "15570-新项目资深主美（深圳）"
+}
+{
+  "title": "25927-高级测试开发工程师（深圳）"
+}
+{
+  "title": "CS-公益项目新闻传播"
+}
+{
+  "title": "27730-Yoo视频商务拓展（动漫二次元品类）"
+}
+{
+  "title": "TEG02-服务器运营高级工程师（深圳）"
+}
+{
+  "title": "TEG02-运营流程开发工程师（深圳）"
+}
+{
+  "title": "22989-专有云高级前端web开发工程师"
+}
+{
+  "title": "28481-医疗大数据产品经理（深圳）"
+}
+{
+  "title": "18432-微黄金产品运营经理"
+}
+{
+  "title": "CSIG02-腾讯云营销产品经理（北京）"
+}
+{
+  "title": "PCG10-QQ浏览器视频前端开发工程师"
+}
+{
+  "title": "19332-高级PHP开发工程师（上海）"
+}
+{
+  "title": "23671-企鹅号前端开发工程师（深圳）"
+}
+{
+  "title": "22090-天天快报-NLP工程师（北京）"
+}
+{
+  "title": "27092-商业化策略产品经理（深圳）"
+}
+{
+  "title": "PCG14-商业化策略产品经理（深圳）"
+}
+{
+  "title": "22851-腾讯视频电视剧运营岗位（天津）"
+}
+{
+  "title": "22090-应用平台组组长/副组长"
+}
+{
+  "title": "22090-接入后台组组长/副组长"
+}
+{
+  "title": "22086-腾讯体育产品经理（北京）"
+}
+{
+  "title": "22090-用户增长组长"
+}
+{
+  "title": "22090-天天快报-数据开发工程师（北京）"
+}
+{
+  "title": "PCG14-二次元类产品运营（深圳）"
+}
+{
+  "title": "TME-Moo音乐Android开发工程师（深圳）"
+}
+{
+  "title": "TME-Moo音乐后台开发工程师（深圳）"
+}
+{
+  "title": "22989-腾讯云块存储产品经理（深圳）"
+}
+{
+  "title": "22086-体育视频节目负责人"
+}
+{
+  "title": "22090-推荐引擎开发工程师"
+}
+{
+  "title": "CSIG17-高级质量管理工程师"
+}
+{
+  "title": "24548-艺人经纪商务经理"
+}
+{
+  "title": "29777-云市场高级后台开发工程师（深圳）"
+}
+{
+  "title": "29777-工业消费品高级产品经理（深圳）"
+}
+{
+  "title": "TME-Moo音乐iOS开发工程师（深圳）"
+}
+{
+  "title": "CS-项目经理"
+}
+{
+  "title": "CSIG16-财务经理"
+}
+{
+  "title": "TEG02-自研交换机测试高级工程师（深圳）"
+}
+{
+  "title": "CSIG16-数据生产工程师"
+}
+{
+  "title": "CSIG16-数据生产专员"
+}
+{
+  "title": "CSIG16-数据质量主管"
+}
+{
+  "title": "CSIG16-数据质量工程师"
+}
+{
+  "title": "CSIG16-数据质量专员"
+}
+{
+  "title": "CSIG16-综合管理部主管"
+}
+{
+  "title": "CSIG16-综合管理专员"
+}
+{
+  "title": "15571-资深3D角色设计师（深圳）"
+}
+{
+  "title": "23671-企鹅号区域内容运营（北京）"
+}
+{
+  "title": "23671-企鹅号区域生态运营（北京）"
+}
+{
+  "title": "TEG06-企业内网安全产品经理（深圳）"
+}
+{
+  "title": "29315-培训经理"
+}
+{
+  "title": "CSIG16-车联网项目经理（北京）"
+}
+{
+  "title": "TME-Moo音乐视觉设计（深圳）"
+}
+{
+  "title": "25923-CodeCC高级后台开发工程师"
+}
+{
+  "title": "25923-高级工具开发工程师"
+}
+{
+  "title": "CSIG02-腾讯云行业方案架构师（北京/上海/深圳/成都）"
+}
+{
+  "title": "18402-MMO手游平台渠道运营"
+}
+{
+  "title": "20589-商务拓展（深圳总部）"
+}
+{
+  "title": "28600-211 微信支付服务商业务运营经理（深圳）"
+}
+{
+  "title": "TME-腾讯音乐音乐曲库运营（深圳）"
+}
+{
+  "title": "TME-Moo音乐系统测试工程师（深圳）"
+}
+{
+  "title": "TME-MOO音乐产品运营（深圳）"
+}
+{
+  "title": "TME-Moo音乐视频运营编辑（深圳）"
+}
+{
+  "title": "TME-Moo音乐交互设计（深圳）"
+}
+{
+  "title": "TEG13-运营开发工程师（深圳）"
+}
+{
+  "title": "22989-腾讯云加速中心PHP高级工程师（深圳）"
+}
+{
+  "title": "22989-腾讯云加速中心C++高级工程师（深圳）"
+}
+{
+  "title": "22989-PHP后台高级开发工程师（深圳）"
+}
+{
+  "title": "18796-Android客户端开发工程师"
+}
+{
+  "title": "CSIG18-安全咨询"
+}
+{
+  "title": "26563-PC客户端开发工程师(深圳）"
+}
+{
+  "title": "TME-Moo音乐内容专题编辑（深圳）"
+}
+{
+  "title": "21309-深圳市腾讯教育科技有限公司客服主管（武汉）"
+}
+{
+  "title": "TME-腾讯音乐娱乐营销经理（深圳）"
+}
+{
+  "title": "TME-QQ音乐渠道运营经理（深圳）"
+}
+{
+  "title": "15583-手游3D角色设计师（深圳）"
+}
+{
+  "title": "15583-unity游戏开发工程师(深圳)"
+}
+{
+  "title": "21309-深圳市腾讯教育科技有限公司客服专员（武汉）"
+}
+{
+  "title": "21309-深圳市腾讯教育科技有限公司选聘主管（武汉）"
+}
+{
+  "title": "21309-深圳市腾讯教育科技有限公司行政专员（武汉）"
+}
+{
+  "title": "21309-深圳市腾讯教育科技有限公司质检主管（武汉）"
+}
+{
+  "title": "21309-深圳市腾讯教育科技有限公司IT运维专员（武汉）"
+}
+{
+  "title": "21309-深圳市腾讯教育科技有限公司质检专员（武汉）"
+}
+{
+  "title": "CSIG07-产品市场经理（深圳）"
+}
+{
+  "title": "21309-21309-深圳市腾讯教育科技有限公司课程顾问（武汉）"
+}
+{
+  "title": "21309-深圳市腾讯教育科技有限公司师训主管（武汉）"
+}
+{
+  "title": "21309-深圳市腾讯教育科技有限公司师训专员(武汉）"
+}
+{
+  "title": "21309-深圳市腾讯教育科技有限公司辅导老师(武汉）"
+}
+{
+  "title": "CSIG16-腾讯地图位置服务视觉设计师（北京）"
+}
+{
+  "title": "25666-金融云业务拓展总监（北京）"
+}
+{
+  "title": "CDG064-web前端开发工程师（上海）"
+}
+{
+  "title": "TME-全民K歌视频类新产品后台开发（深圳）"
+}
+{
+  "title": "21309-深圳市腾讯教育科技有限公司销售总监（武汉）"
+}
+{
+  "title": "21309-深圳市腾讯教育科技有限公司销售主管（武汉）"
+}
+{
+  "title": "TME-腾讯音乐iOS开发工程师（深圳）（专场招聘会）（深圳）"
+}
+{
+  "title": "22989-物联网边缘计算高级产品经理（深圳）"
+}
+{
+  "title": "22989-物联网操作系统高级产品经理（深圳）"
+}
+{
+  "title": "22086-体育产品后台开发（北京）"
+}
+{
+  "title": "CSIG16-腾讯地图位置服务交互设计师招聘（北京）"
+}
+{
+  "title": "25666-金融云业务拓展总监（深圳）"
+}
+{
+  "title": "TME-腾讯音乐web开发工程师（专场招聘会）（深圳）"
+}
+{
+  "title": "TME-腾讯音乐C++/GO后台开发工程师（深圳）（专场招聘会）"
+}
+{
+  "title": "TEG15-智能运维算法高级工程师（深圳）"
+}
+{
+  "title": "TEG15-web前端开发高级工程师（深圳）"
+}
+{
+  "title": "15611-游戏后台开发工程师（深圳）"
+}
+{
+  "title": "15616-高级动画设计师"
+}
+{
+  "title": "29912-达人运营经理"
+}
+{
+  "title": "WXG04-微信游戏平台产品策划（深圳）"
+}
+{
+  "title": "22090-web前端开发工程师"
+}
+{
+  "title": "TME-腾讯音乐测试开发工程师（深圳）（专场招聘会）（深圳）"
+}
+{
+  "title": "TME-腾讯音乐系统测试工程师（深圳）（专场招聘会）（深圳）"
+}
+{
+  "title": "TME-腾讯音乐Android开发工程师（深圳）（专场招聘会）"
+}
+{
+  "title": "27730-Yoo视频APP后台开发工程师（深圳）"
+}
+{
+  "title": "27730-Yoo视频前端开发开发工程师（深圳）"
+}
+{
+  "title": "15616-高级原画设计师"
+}
+{
+  "title": "15616-高级3D角色设计师"
+}
+{
+  "title": "15616-高级特效设计师"
+}
+{
+  "title": "15616-高级UI设计师"
+}
+{
+  "title": "15616-高级3D场景设计师"
+}
+{
+  "title": "27730-Yoo视频商务拓展（娱乐方向）"
+}
+{
+  "title": "21882-算法工程师（深圳）"
+}
+{
+  "title": "22989-腾讯云品牌设计组-视觉设计师（深圳）"
+}
+{
+  "title": "22989-腾讯云品牌设计组-交互设计师（深圳）"
+}
+{
+  "title": "16810-小说内容运营编辑"
+}
+{
+  "title": "PCG03-腾讯新闻品牌传播经理（北京）"
+}
+{
+  "title": "28603-111 微信支付营销业务分析师（深圳）"
+}
+{
+  "title": "27553-腾讯音乐测试开发工程师（深圳）"
+}
+{
+  "title": "23671-企鹅号内容合作运营经理-影视综行业（北京）"
+}
+{
+  "title": "22989-视频云产品运营经理"
+}
+{
+  "title": "29923-高级视觉设计师"
+}
+{
+  "title": "29923-动效视觉设计师"
+}
+{
+  "title": "CSIG16-车联网项目经理（北京）"
+}
+{
+  "title": "TME-Moo音乐视觉设计（深圳）"
+}
+{
+  "title": "25923-CodeCC高级后台开发工程师"
+}
+{
+  "title": "25923-高级工具开发工程师"
+}
+{
+  "title": "CSIG02-腾讯云行业方案架构师（北京/上海/深圳/成都）"
+}
+{
+  "title": "18402-MMO手游平台渠道运营"
+}
+{
+  "title": "20589-商务拓展（深圳总部）"
+}
+{
+  "title": "28600-211 微信支付服务商业务运营经理（深圳）"
+}
+{
+  "title": "TME-腾讯音乐音乐曲库运营（深圳）"
+}
+{
+  "title": "TME-Moo音乐系统测试工程师（深圳）"
+}
+{
+  "title": "TME-MOO音乐产品运营（深圳）"
+}
+{
+  "title": "TME-Moo音乐视频运营编辑（深圳）"
+}
+{
+  "title": "TME-Moo音乐交互设计（深圳）"
+}
+{
+  "title": "TEG13-运营开发工程师（深圳）"
+}
+{
+  "title": "22989-腾讯云加速中心PHP高级工程师（深圳）"
+}
+{
+  "title": "22989-腾讯云加速中心C++高级工程师（深圳）"
+}
+{
+  "title": "22989-PHP后台高级开发工程师（深圳）"
+}
+{
+  "title": "18796-Android客户端开发工程师"
+}
+{
+  "title": "CSIG18-安全咨询"
+}
+{
+  "title": "26563-PC客户端开发工程师(深圳）"
+}
+{
+  "title": "TME-Moo音乐内容专题编辑（深圳）"
+}
+{
+  "title": "21309-深圳市腾讯教育科技有限公司客服主管（武汉）"
+}
+{
+  "title": "TME-腾讯音乐娱乐营销经理（深圳）"
+}
+{
+  "title": "TME-QQ音乐渠道运营经理（深圳）"
+}
+{
+  "title": "15583-手游3D角色设计师（深圳）"
+}
+{
+  "title": "15583-unity游戏开发工程师(深圳)"
+}
+{
+  "title": "21309-深圳市腾讯教育科技有限公司客服专员（武汉）"
+}
+{
+  "title": "21309-深圳市腾讯教育科技有限公司选聘主管（武汉）"
+}
+{
+  "title": "21309-深圳市腾讯教育科技有限公司行政专员（武汉）"
+}
+{
+  "title": "21309-深圳市腾讯教育科技有限公司质检主管（武汉）"
+}
+{
+  "title": "21309-深圳市腾讯教育科技有限公司IT运维专员（武汉）"
+}
+{
+  "title": "21309-深圳市腾讯教育科技有限公司质检专员（武汉）"
+}
+{
+  "title": "CSIG07-产品市场经理（深圳）"
+}
+{
+  "title": "21309-21309-深圳市腾讯教育科技有限公司课程顾问（武汉）"
+}
+{
+  "title": "21309-深圳市腾讯教育科技有限公司师训主管（武汉）"
+}
+{
+  "title": "21309-深圳市腾讯教育科技有限公司师训专员(武汉）"
+}
+{
+  "title": "21309-深圳市腾讯教育科技有限公司辅导老师(武汉）"
+}
+{
+  "title": "CSIG16-腾讯地图位置服务视觉设计师（北京）"
+}
+{
+  "title": "25666-金融云业务拓展总监（北京）"
+}
+{
+  "title": "CDG064-web前端开发工程师（上海）"
+}
+{
+  "title": "TME-全民K歌视频类新产品后台开发（深圳）"
+}
+{
+  "title": "21309-深圳市腾讯教育科技有限公司销售总监（武汉）"
+}
+{
+  "title": "21309-深圳市腾讯教育科技有限公司销售主管（武汉）"
+}
+{
+  "title": "TME-腾讯音乐iOS开发工程师（深圳）（专场招聘会）（深圳）"
+}
+{
+  "title": "22989-物联网边缘计算高级产品经理（深圳）"
+}
+{
+  "title": "22989-物联网操作系统高级产品经理（深圳）"
+}
+{
+  "title": "22086-体育产品后台开发（北京）"
+}
+{
+  "title": "CSIG16-腾讯地图位置服务交互设计师招聘（北京）"
+}
+{
+  "title": "25666-金融云业务拓展总监（深圳）"
+}
+{
+  "title": "TME-腾讯音乐web开发工程师（专场招聘会）（深圳）"
+}
+{
+  "title": "TME-腾讯音乐C++/GO后台开发工程师（深圳）（专场招聘会）"
+}
+{
+  "title": "TEG15-智能运维算法高级工程师（深圳）"
+}
+{
+  "title": "TEG15-web前端开发高级工程师（深圳）"
+}
+{
+  "title": "15611-游戏后台开发工程师（深圳）"
+}
+{
+  "title": "15616-高级动画设计师"
+}
+{
+  "title": "29912-达人运营经理"
+}
+{
+  "title": "WXG04-微信游戏平台产品策划（深圳）"
+}
+{
+  "title": "22090-web前端开发工程师"
+}
+{
+  "title": "TME-腾讯音乐测试开发工程师（深圳）（专场招聘会）（深圳）"
+}
+{
+  "title": "TME-腾讯音乐系统测试工程师（深圳）（专场招聘会）（深圳）"
+}
+{
+  "title": "TME-腾讯音乐Android开发工程师（深圳）（专场招聘会）"
+}
+{
+  "title": "27730-Yoo视频APP后台开发工程师（深圳）"
+}
+{
+  "title": "27730-Yoo视频前端开发开发工程师（深圳）"
+}
+{
+  "title": "15616-高级原画设计师"
+}
+{
+  "title": "15616-高级3D角色设计师"
+}
+{
+  "title": "15616-高级特效设计师"
+}
+{
+  "title": "15616-高级UI设计师"
+}
+{
+  "title": "15616-高级3D场景设计师"
+}
+{
+  "title": "27730-Yoo视频商务拓展（娱乐方向）"
+}
+{
+  "title": "21882-算法工程师（深圳）"
+}
+{
+  "title": "22989-腾讯云品牌设计组-视觉设计师（深圳）"
+}
+{
+  "title": "22989-腾讯云品牌设计组-交互设计师（深圳）"
+}
+{
+  "title": "16810-小说内容运营编辑"
+}
+{
+  "title": "PCG03-腾讯新闻品牌传播经理（北京）"
+}
+{
+  "title": "28603-111 微信支付营销业务分析师（深圳）"
+}
+{
+  "title": "27553-腾讯音乐测试开发工程师（深圳）"
+}
+{
+  "title": "23671-企鹅号内容合作运营经理-影视综行业（北京）"
+}
+{
+  "title": "22989-视频云产品运营经理"
+}
+{
+  "title": "29923-高级视觉设计师"
+}
+{
+  "title": "29923-动效视觉设计师"
+}
+{
+  "title": "19837-影视传播经理（北京）"
+}
+{
+  "title": "PCG07-后台平台开发（深圳）"
+}
+{
+  "title": "PCG10-搜索高级算法工程师-图像方向"
+}
+{
+  "title": "CSIG02-智慧社区产品运营经理（深圳）"
+}
+{
+  "title": "ZSC-Senior Patent Counsel/Expert"
+}
+{
+  "title": "17467-社交高级品牌经理"
+}
+{
+  "title": "29923-QQ交互设计师"
+}
+{
+  "title": "PCG19-腾讯视频社区产品经理（深圳）"
+}
+{
+  "title": "22851-腾讯视频重点页面运营编辑（北京）"
+}
+{
+  "title": "22851-腾讯视频-短视频运营"
+}
+{
+  "title": "PCG07-后台平台开发（深圳）"
+}
+{
+  "title": "TEG11-搜索后台开发工程师（深圳）"
+}
+{
+  "title": "CSIG02-腾讯云行业交付架构师（深圳）"
+}
+{
+  "title": "23671-企鹅号平台产品运营经理（合作产品方向）"
+}
+{
+  "title": "PCG05-高级内容安全数据分析工程师（北京）"
+}
+{
+  "title": "PCG19-腾讯视频移动端产品经理（深圳）"
+}
+{
+  "title": "SH-政府事务经理"
+}
+{
+  "title": "15616-高级手游系统策划（上海）"
+}
+{
+  "title": "23671-企鹅号内容产品运营经理（产品方向）"
+}
+{
+  "title": "23671-企鹅号内容产品运营经理（产品方向）"
+}
+{
+  "title": "23671-企鹅号平台产品运营经理（合作产品方向）"
+}
+{
+  "title": "CSIG08-WiFi产品运营组长（广州）"
+}
+{
+  "title": "15570-新项目资深主美（深圳）"
+}
+{
+  "title": "25927-高级测试开发工程师（深圳）"
+}
+{
+  "title": "CS-公益项目新闻传播"
+}
+{
+  "title": "27730-Yoo视频商务拓展（动漫二次元品类）"
+}
+{
+  "title": "TEG02-服务器运营高级工程师（深圳）"
+}
+{
+  "title": "TEG02-运营流程开发工程师（深圳）"
+}
+{
+  "title": "22989-专有云高级前端web开发工程师"
+}
+{
+  "title": "28481-医疗大数据产品经理（深圳）"
+}
+{
+  "title": "18432-微黄金产品运营经理"
+}
+{
+  "title": "CSIG02-腾讯云营销产品经理（北京）"
+}
+{
+  "title": "PCG10-QQ浏览器视频前端开发工程师"
+}
+{
+  "title": "19332-高级PHP开发工程师（上海）"
+}
+{
+  "title": "23671-企鹅号前端开发工程师（深圳）"
+}
+{
+  "title": "22090-天天快报-NLP工程师（北京）"
+}
+{
+  "title": "27092-商业化策略产品经理（深圳）"
+}
+{
+  "title": "PCG14-商业化策略产品经理（深圳）"
+}
+{
+  "title": "22851-腾讯视频电视剧运营岗位（天津）"
+}
+{
+  "title": "22090-应用平台组组长/副组长"
+}
+{
+  "title": "22090-接入后台组组长/副组长"
+}
+{
+  "title": "22086-腾讯体育产品经理（北京）"
+}
+{
+  "title": "22090-用户增长组长"
+}
+{
+  "title": "22090-天天快报-数据开发工程师（北京）"
+}
+{
+  "title": "PCG14-二次元类产品运营（深圳）"
+}
+{
+  "title": "TME-Moo音乐Android开发工程师（深圳）"
+}
+{
+  "title": "TME-Moo音乐后台开发工程师（深圳）"
+}
+{
+  "title": "22989-腾讯云块存储产品经理（深圳）"
+}
+{
+  "title": "22086-体育视频节目负责人"
+}
+{
+  "title": "22090-推荐引擎开发工程师"
+}
+{
+  "title": "CSIG17-高级质量管理工程师"
+}
+{
+  "title": "24548-艺人经纪商务经理"
+}
+{
+  "title": "29777-云市场高级后台开发工程师（深圳）"
+}
+{
+  "title": "29777-工业消费品高级产品经理（深圳）"
+}
+{
+  "title": "TME-Moo音乐iOS开发工程师（深圳）"
+}
+{
+  "title": "CS-项目经理"
+}
+{
+  "title": "CSIG16-财务经理"
+}
+{
+  "title": "TEG02-自研交换机测试高级工程师（深圳）"
+}
+{
+  "title": "CSIG16-数据生产工程师"
+}
+{
+  "title": "CSIG16-数据生产专员"
+}
+{
+  "title": "CSIG16-数据质量主管"
+}
+{
+  "title": "CSIG16-数据质量工程师"
+}
+{
+  "title": "CSIG16-数据质量专员"
+}
+{
+  "title": "CSIG16-综合管理部主管"
+}
+{
+  "title": "CSIG16-综合管理专员"
+}
+{
+  "title": "15571-资深3D角色设计师（深圳）"
+}
+{
+  "title": "23671-企鹅号区域内容运营（北京）"
+}
+{
+  "title": "23671-企鹅号区域生态运营（北京）"
+}
+{
+  "title": "TEG06-企业内网安全产品经理（深圳）"
+}
+{
+  "title": "29315-培训经理"
+}
+{
+  "title": "CSIG16-数据生产主管"
+}
+{
+  "title": "23671-众创空间区域运营经理（上海）"
+}
+{
+  "title": "17759-腾讯视频数据分析师"
+}
+{
+  "title": "CSIG17-资深测试工程师（深圳）"
+}
+{
+  "title": "29777-腾讯云生态产品运营经理 （深圳/北京/上海）"
+}
+{
+  "title": "23674-新闻推荐算法高级工程师（北京）"
+}
+{
+  "title": "PCG07-社交平台Android开发工程师（深圳）"
+}
+{
+  "title": "TEG03-大数据开发工程师(深圳）"
+}
+{
+  "title": "PCG17-高级产品运营经理（深圳）"
+}
+{
+  "title": "TEG03-算法专家（深圳）"
+}
+{
+  "title": "23295-互娱PHP开发工程师（深圳）"
+}
+{
+  "title": "TEG05-后台系统开发工程师（深圳）"
+}
+{
+  "title": "TEG02-JAVA开发工程师（深圳）"
+}
+{
+  "title": "TME-QQ音乐商务运营经理（深圳）"
+}
+{
+  "title": "23295-互娱社区后台开发工程师（深圳）"
+}
+{
+  "title": "TEG03-新零售产品经理（深圳）"
+}
+{
+  "title": "29522-Assistant producer（Shenzhen）"
+}
+{
+  "title": "23671-腾讯topic基金投资经理（深圳）"
+}
+{
+  "title": "23671-双百计划投资公司市场运营经理（深圳）"
+}
+{
+  "title": "16810-腾讯动漫产品策划经理（深圳）"
+}
