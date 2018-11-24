@@ -53,7 +53,7 @@ rets = col.update({}, {'$set': {'name_id': "long"}}, multi=True, upsert=True)
 print(rets)
 
 print("*" * 100)
-# 删除多条数据
+# 删除数据
 ret = col.delete_one({"id": 0})
 print(ret)
 
