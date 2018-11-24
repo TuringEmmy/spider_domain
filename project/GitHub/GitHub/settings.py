@@ -14,7 +14,7 @@ BOT_NAME = 'GitHub'
 SPIDER_MODULES = ['GitHub.spiders']
 NEWSPIDER_MODULE = 'GitHub.spiders'
 
-COOKIES_DEBUG = True
+COOKIES_DEBUG = False
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36'
@@ -68,7 +68,7 @@ ROBOTSTXT_OBEY = False
 ITEM_PIPELINES = {
     # 权重越小,越厉害
     'GitHub.pipelines.GithubPipeline1': 300,
-    'GitHub.pipelines.GithubPipeline2': 400,
+    'GitHub.pipelines.GithubPipeline2': 200,
 
 }
 

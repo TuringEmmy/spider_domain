@@ -1,7 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="358dc6ca-9af5-45ea-8afe-2b0ea1cc8b95" name="Default Changelist" comment="" />
+    <list default="true" id="358dc6ca-9af5-45ea-8afe-2b0ea1cc8b95" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/basic/1.3.2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/1.3.5/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/1.3.6/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/2.2.2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/2.3.2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/2.3.3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/2.4.7/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.2.1/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/1.2.1/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.2.1/baidu.png" beforeDir="false" afterPath="$PROJECT_DIR$/basic/1.2.1/baidu.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.2.1/get请求获取百度首页.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/1.2.1/get请求获取百度首页.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.2.1/保存图片到本地.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/1.2.1/保存图片到本地.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.2.2/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/1.2.2/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.2.2/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/1.2.2/demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.3.2/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/1.3.2/demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.3.2/jsonpath模块.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/1.3.2/jsonpath模块.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.3.2/json模块的使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/1.3.2/json模块的使用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.3.2/mydict.json" beforeDir="false" afterPath="$PROJECT_DIR$/basic/1.3.2/mydict.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.3.2/re模块的复习.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/1.3.2/re模块的复习.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.3.5/baidutieba.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/1.3.5/baidutieba.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.3.5/提取lxml.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/1.3.5/提取lxml.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.3.5/百度贴吧移动版爬虫.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/1.3.5/百度贴吧移动版爬虫.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.3.6/mutli_threading_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/1.3.6/mutli_threading_spider.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.3.6/mutlib_process_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/1.3.6/mutlib_process_spider.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.3.6/qiushi.html" beforeDir="false" afterPath="$PROJECT_DIR$/basic/1.3.6/qiushi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.3.6/singal_threding_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/1.3.6/singal_threding_spider.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.3.6/了解bs4模块.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/1.3.6/了解bs4模块.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.3.6/协程池.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/1.3.6/协程池.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.3.6/线程池.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/1.3.6/线程池.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.2/QQ_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/2.2.2/QQ_login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.2/chrome.png" beforeDir="false" afterPath="$PROJECT_DIR$/basic/2.2.2/chrome.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.2/douyu/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/2.2.2/douyu/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.2/douyu/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/2.2.2/douyu/index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.2/selenium处理cookies.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/2.2.2/selenium处理cookies.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.2/selenium标签.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/2.2.2/selenium标签.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.2/selenium标签定位.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/2.2.2/selenium标签定位.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.2/selenium简介.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/2.2.2/selenium简介.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.2/selenium进行百度搜索.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/2.2.2/selenium进行百度搜索.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.2/switch_to切换标签页.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/2.2.2/switch_to切换标签页.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.2/使用无界面模式.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/2.2.2/使用无界面模式.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.2/无头案例.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/2.2.2/无头案例.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.2/测试.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/2.2.2/测试.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.2/页面等待.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/2.2.2/页面等待.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.3.2/captcha.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/basic/2.3.2/captcha.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.3.2/url地址不变验证图片发生改变.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/2.3.2/url地址不变验证图片发生改变.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.3.2/yundama_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/2.3.2/yundama_demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.3.3/Barrett.js" beforeDir="false" afterPath="$PROJECT_DIR$/basic/2.3.3/Barrett.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.3.3/BigInt.js" beforeDir="false" afterPath="$PROJECT_DIR$/basic/2.3.3/BigInt.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.3.3/RSA.js" beforeDir="false" afterPath="$PROJECT_DIR$/basic/2.3.3/RSA.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.3.3/利用js2py模块获取js加密的值.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/2.3.3/利用js2py模块获取js加密的值.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4.7/pymongo模块-普通用户.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/2.4.7/pymongo模块-普通用户.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4.7/pymongo模块-权限用户.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/2.4.7/pymongo模块-权限用户.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4.7/pymongo的增删改查.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/2.4.7/pymongo的增删改查.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4.7/scrapy的开馆之战.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/2.4.7/scrapy的开馆之战.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/GitHub/GitHub/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/GitHub/GitHub/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/GitHub/GitHub/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/GitHub/GitHub/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/GitHub/name.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project/GitHub/name.txt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,9 +142,34 @@
     <session id="-27680603">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="md" value="1" />
+          <entry key="py" value="9" />
+          <entry key="txt" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Python" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="122" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="122" />
         </counts>
       </usages-collector>
     </session>
@@ -94,40 +177,32 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tspider/tspider/spiders/turing.py">
+        <entry file="file://$PROJECT_DIR$/project/GitHub/GitHub/pipelines.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2.4.7/pymongo的增删改查.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="51" column="35" selection-start-line="51" selection-start-column="35" selection-end-line="51" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2.4.7/pymongo模块-权限用户.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="21" column="36" lean-forward="true" selection-start-line="13" selection-end-line="21" selection-end-column="36" />
+            <state relative-caret-position="122">
+              <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
               <folding>
-                <element signature="e#135#166#0" expanded="true" />
+                <element signature="e#193#204#0" expanded="true" />
+                <marker date="1543072956794" expanded="true" signature="794:834" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tspider/tspider/pipelines.py">
+        <entry file="file://$PROJECT_DIR$/project/GitHub/GitHub/spiders/pipline.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="50">
+              <caret line="5" column="19" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project/GitHub/GitHub/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="52">
+              <caret line="70" column="41" selection-start-line="70" selection-start-column="41" selection-end-line="70" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -158,6 +233,9 @@
         <option value="$PROJECT_DIR$/tspider/tspider/pipelines.py" />
         <option value="$PROJECT_DIR$/tspider/tspider/spiders/turing.py" />
         <option value="$PROJECT_DIR$/2.4.7/pymongo的增删改查.py" />
+        <option value="$PROJECT_DIR$/project/GitHub/GitHub/settings.py" />
+        <option value="$PROJECT_DIR$/project/GitHub/title.txt" />
+        <option value="$PROJECT_DIR$/project/GitHub/GitHub/pipelines.py" />
       </list>
     </option>
   </component>
@@ -167,9 +245,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="296" />
-    <option name="y" value="37" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="285" />
+    <option name="y" value="27" />
     <option name="width" value="757" />
     <option name="height" value="544" />
   </component>
@@ -191,7 +269,28 @@
             <path>
               <item name="spider_study" type="b2602c69:ProjectViewProjectNode" />
               <item name="spider_study" type="462c0819:PsiDirectoryNode" />
-              <item name="2.4.7" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spider_study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spider_study" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="GitHub" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spider_study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spider_study" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="GitHub" type="462c0819:PsiDirectoryNode" />
+              <item name="GitHub" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spider_study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spider_study" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="GitHub" type="462c0819:PsiDirectoryNode" />
+              <item name="GitHub" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -208,6 +307,10 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/basic" />
+      <recent name="$PROJECT_DIR$/project" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/note" />
     </key>
@@ -364,9 +467,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="439" y="125" width="471" height="534" extended-state="0" />
+    <frame x="285" y="27" width="757" height="544" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.7156177" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.29411766" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -380,7 +484,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.47493404" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.54105264" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.3286385" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -406,54 +510,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1.3.2/jsonpath模块.py">
+    <entry file="file://$PROJECT_DIR$/basic/1.3.2/jsonpath模块.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1.3.2/json模块的使用.py">
+    <entry file="file://$PROJECT_DIR$/basic/1.3.2/json模块的使用.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1.3.2/re模块的复习.py">
+    <entry file="file://$PROJECT_DIR$/basic/1.3.2/re模块的复习.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/1.3.5/baidutieba.py">
+    <entry file="file://$PROJECT_DIR$/basic/1.3.5/baidutieba.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-638">
           <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1.3.5/提取lxml.py">
+    <entry file="file://$PROJECT_DIR$/basic/1.3.5/提取lxml.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/1.3.5/百度贴吧移动版爬虫.py">
+    <entry file="file://$PROJECT_DIR$/basic/1.3.5/百度贴吧移动版爬虫.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-220" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1.3.6/mutli_threading_spider.py">
+    <entry file="file://$PROJECT_DIR$/basic/1.3.6/mutli_threading_spider.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-223" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1.3.6/mutlib_process_spider.py">
+    <entry file="file://$PROJECT_DIR$/basic/1.3.6/mutlib_process_spider.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-223" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1.3.6/singal_threding_spider.py">
+    <entry file="file://$PROJECT_DIR$/basic/1.3.6/singal_threding_spider.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1.3.6/了解bs4模块.py">
+    <entry file="file://$PROJECT_DIR$/basic/1.3.6/了解bs4模块.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
@@ -467,46 +571,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1.3.6/协程池.py">
+    <entry file="file://$PROJECT_DIR$/basic/1.3.6/协程池.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/1.3.6/线程池.py">
+    <entry file="file://$PROJECT_DIR$/basic/1.3.6/线程池.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-220" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2.2.2/QQ_login.py">
+    <entry file="file://$PROJECT_DIR$/basic/2.2.2/QQ_login.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/2.2.2/selenium标签定位.py">
+    <entry file="file://$PROJECT_DIR$/basic/2.2.2/selenium标签定位.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-134" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2.3.2/url地址不变验证图片发生改变.py">
+    <entry file="file://$PROJECT_DIR$/basic/2.3.2/url地址不变验证图片发生改变.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-323">
           <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2.3.2/yundama_demo.py">
+    <entry file="file://$PROJECT_DIR$/basic/2.3.2/yundama_demo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="55" lean-forward="true" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/note/爬虫笔记1.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2.3.3/利用js2py模块获取加密的内容.py" />
-    <entry file="file://$PROJECT_DIR$/1.2.1/get请求获取百度首页.py">
+    <entry file="file://$PROJECT_DIR$/basic/1.2.1/get请求获取百度首页.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="59">
           <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
@@ -520,7 +616,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2.3.3/BigInt.js">
+    <entry file="file://$PROJECT_DIR$/basic/2.3.3/BigInt.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
@@ -537,7 +633,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2.3.3/利用js2py模块获取js加密的值.py">
+    <entry file="file://$PROJECT_DIR$/basic/2.3.3/利用js2py模块获取js加密的值.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="278">
           <caret line="58" column="16" selection-start-line="58" selection-start-column="16" selection-end-line="58" selection-end-column="16" />
@@ -574,7 +670,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2.4.7/pymongo模块-普通用户.py">
+    <entry file="file://$PROJECT_DIR$/basic/2.4.7/pymongo模块-普通用户.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
@@ -584,7 +680,7 @@
     <entry file="file://$USER_HOME$/miniconda3/envs/scrapy/lib/python3.6/site-packages/scrapy/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/2.4.7/scrapy的开馆之战.py">
+    <entry file="file://$PROJECT_DIR$/basic/2.4.7/scrapy的开馆之战.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
@@ -596,23 +692,23 @@
     <entry file="file://$PROJECT_DIR$/tspide/tspide/spiders/turing.py" />
     <entry file="file://$PROJECT_DIR$/tspide/tspide/settings.py" />
     <entry file="file://$PROJECT_DIR$/myspider/myspider/spiders/itcast.py" />
-    <entry file="file://$PROJECT_DIR$/tspider/tspider/spiders/turing.py">
+    <entry file="file://$PROJECT_DIR$/project/tspider/tspider/spiders/turing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        <state relative-caret-position="45">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2.4.7/pymongo的增删改查.py">
+    <entry file="file://$PROJECT_DIR$/basic/2.4.7/pymongo的增删改查.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="765">
           <caret line="51" column="35" selection-start-line="51" selection-start-column="35" selection-end-line="51" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2.4.7/pymongo模块-权限用户.py">
+    <entry file="file://$PROJECT_DIR$/basic/2.4.7/pymongo模块-权限用户.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
+        <state relative-caret-position="306">
           <caret line="21" column="36" lean-forward="true" selection-start-line="13" selection-end-line="21" selection-end-column="36" />
           <folding>
             <element signature="e#135#166#0" expanded="true" />
@@ -620,10 +716,81 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tspider/tspider/pipelines.py">
+    <entry file="file://$PROJECT_DIR$/project/tspider/tspider/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/note/爬虫笔记1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="240">
+            <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/GitHub/GitHub/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/GitHub/GitHub/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-1084950058/pymongo/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/GitHub/name.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" selection-start-line="15" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/GitHub/GitHub/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="70" column="41" selection-start-line="70" selection-start-column="41" selection-end-line="70" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/miniconda3/envs/scrapy/lib/python3.6/site-packages/pymongo/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-270" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/GitHub/title.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="3644" column="1" lean-forward="true" selection-start-line="3644" selection-start-column="1" selection-end-line="3644" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/GitHub/GitHub/spiders/pipline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/GitHub/GitHub/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+          <folding>
+            <element signature="e#193#204#0" expanded="true" />
+            <marker date="1543072956794" expanded="true" signature="794:834" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
