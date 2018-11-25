@@ -2,7 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="358dc6ca-9af5-45ea-8afe-2b0ea1cc8b95" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/data/__init__.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/spider10/Tencent/Tencent/spiders/baseItemUse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spider10/Tencent/Tencent/spiders/detail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spider10/Tencent/Tencent/spiders/tencent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spider10/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/spider_study.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/spider_study.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/Tencent2/Tencent2/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/spider10/Tencent/Tencent/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/Tencent2/Tencent2/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/spider10/Tencent/Tencent/items.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/Tencent2/Tencent2/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/spider10/Tencent/Tencent/middlewares.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/Tencent2/Tencent2/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/spider10/Tencent/Tencent/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/Tencent2/Tencent2/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/spider10/Tencent/Tencent/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/Tencent2/Tencent2/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/spider10/Tencent/Tencent/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/Tencent2/scrapy.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/spider10/Tencent/scrapy.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work/__init__.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,35 +72,35 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="cfg" value="1" />
-          <entry key="gitignore" value="1" />
+          <entry key="gitignore" value="2" />
           <entry key="js" value="1" />
-          <entry key="md" value="7" />
-          <entry key="py" value="25" />
+          <entry key="md" value="8" />
+          <entry key="py" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Ini" value="1" />
           <entry key="JavaScript" value="1" />
-          <entry key="Markdown" value="7" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="25" />
+          <entry key="Markdown" value="8" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Python" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="3" />
           <entry key="dummy" value="10" />
-          <entry key="gitignore" value="6" />
+          <entry key="gitignore" value="13" />
           <entry key="md" value="12" />
-          <entry key="py" value="3468" />
+          <entry key="py" value="3973" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="12" />
-          <entry key="PLAIN_TEXT" value="16" />
-          <entry key="Python" value="3471" />
+          <entry key="PLAIN_TEXT" value="23" />
+          <entry key="Python" value="3976" />
         </counts>
       </usages-collector>
     </session>
@@ -127,25 +141,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spider10/Tencent/Tencent/middlewares.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="6" selection-start-column="6" selection-end-column="6" />
+            <state relative-caret-position="105">
+              <caret line="27" column="7" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+              <folding>
+                <element signature="e#168#181#0" expanded="true" />
+                <marker date="1543132012953" expanded="true" signature="271:276" ph="..." />
+                <marker date="1543132012953" expanded="true" signature="571:576" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/data/rew/readme.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="12" selection-start-column="12" selection-end-column="12" />
-              </first_editor>
-              <second_editor />
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spider10/Tencent/Tencent/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="229">
+              <caret line="66" column="39" lean-forward="true" selection-start-line="66" selection-start-column="39" selection-end-line="66" selection-end-column="39" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spider10/Tencent/Tencent/spiders/tencent.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -178,8 +199,10 @@
         <option value="$PROJECT_DIR$/project/GitHub/title.txt" />
         <option value="$PROJECT_DIR$/basic/2.4.7/pymongo模块-普通用户.py" />
         <option value="$PROJECT_DIR$/project/GitHub/GitHub/pipelines.py" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/data/rew/readme.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/spider10/Tencent/Tencent/settings.py" />
+        <option value="$PROJECT_DIR$/spider10/Tencent/Tencent/middlewares.py" />
       </list>
     </option>
   </component>
@@ -213,7 +236,20 @@
             <path>
               <item name="spider_study" type="b2602c69:ProjectViewProjectNode" />
               <item name="spider_study" type="462c0819:PsiDirectoryNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="spider10" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spider_study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spider_study" type="462c0819:PsiDirectoryNode" />
+              <item name="spider10" type="462c0819:PsiDirectoryNode" />
+              <item name="Tencent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spider_study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spider_study" type="462c0819:PsiDirectoryNode" />
+              <item name="spider10" type="462c0819:PsiDirectoryNode" />
+              <item name="Tencent" type="462c0819:PsiDirectoryNode" />
+              <item name="Tencent" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -230,12 +266,13 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spider10" />
+      <recent name="$PROJECT_DIR$/note" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/basic" />
       <recent name="$PROJECT_DIR$/project" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/note" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -414,9 +451,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="47" y="25" width="1319" height="634" extended-state="7" />
+    <frame x="47" y="25" width="764" height="591" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20986688" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.4099723" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -430,7 +468,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.39489195" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.21244635" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.3286385" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -446,50 +484,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/basic/1.3.5/baidutieba.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-638">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/1.3.5/提取lxml.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/1.3.5/百度贴吧移动版爬虫.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-220" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/1.3.6/mutli_threading_spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-223" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/1.3.6/mutlib_process_spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-223" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/1.3.6/singal_threding_spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/1.3.6/了解bs4模块.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/request.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/basic/1.3.6/协程池.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -738,20 +732,70 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/rew/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor>
-            <caret column="12" selection-start-column="12" selection-end-column="12" />
+            <caret column="11" selection-start-column="11" selection-end-column="11" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/Tencent2/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="6" lean-forward="true" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider10/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider10/Tencent/Tencent/spiders/tencent.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/miniconda3/envs/scrapy/lib/python3.6/site-packages/scrapy/middleware.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="32" column="16" lean-forward="true" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider10/Tencent/Tencent/spiders/detail.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider10/Tencent/Tencent/spiders/baseItemUse.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider10/Tencent/Tencent/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="66" column="39" lean-forward="true" selection-start-line="66" selection-start-column="39" selection-end-line="66" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider10/Tencent/Tencent/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="27" column="7" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+          <folding>
+            <element signature="e#168#181#0" expanded="true" />
+            <marker date="1543132012953" expanded="true" signature="271:276" ph="..." />
+            <marker date="1543132012953" expanded="true" signature="571:576" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
