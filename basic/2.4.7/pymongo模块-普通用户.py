@@ -24,4 +24,4 @@ print(ret)
 
 print("*"*100)
 # 新建管理员
-db.createUser({'user':'turing','pwd':'turing','roles':['root']})
+# db.createUser({'user':'turing','pwd':'turing','roles':['root']})

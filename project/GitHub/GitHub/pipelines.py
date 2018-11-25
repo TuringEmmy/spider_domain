@@ -36,14 +36,14 @@ class GithubPipeline2(object):
 
     def open_spider(self, spider):
         # client = MongoClient()
-        self.col = self.client.turing.name
+        self.data = self.client.turing.name
         print("*"*100)
-        print(self.col)
+        print(self.data)
         print("*"*100)
 
     def process_item(self, item, spider):
         # print("*"*100)
         # print(item)
         # print("*"*100)
-        # self.col.insert(item)
+        self.data.insert(item)
         return item
