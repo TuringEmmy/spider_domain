@@ -25,13 +25,13 @@ class TitleSpider(CrawlSpider):
         # client =MongoClient()
         # col = client.turing.tencent
         # col.insert(item)
-        # return item
+        return item
 
         import csv
-        f = open('dict.csv', 'wb')
-        w = csv.DictWriter(f, mydict.keys())
-        w.writerow(mydict)
-        f.close()
+        # f = open('dict.csv', 'wb')
+        # w = csv.DictWriter(f, mydict.keys())
+        # w.writerow(mydict)
+        # f.close()
 
 
 
