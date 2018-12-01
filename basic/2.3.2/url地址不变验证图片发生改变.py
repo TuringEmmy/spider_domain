@@ -53,4 +53,6 @@ session.post(log_url,data=data)
 
 # 登录验证
 resp = session.get('http://oa.itcast.cn/seeyon/main.do?method=main')
+with open("index.html",'w') as f:
+    f.write(resp.text)
 print(resp.text)

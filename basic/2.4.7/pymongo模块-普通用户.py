@@ -25,3 +25,11 @@ print(ret)
 print("*"*100)
 # 新建管理员
 # db.createUser({'user':'turing','pwd':'turing','roles':['root']})
+
+# 启动mongodb的服务
+# 启动: sudo service mongod start
+# 停止: sudo service mongod stop
+# 重启: sudo service mongod restart
+# 配置文件的位置：/etc/mongod.conf
+# 日志的位置：/var/log/mongodb/mongod.log
+# 默认端⼝：27017

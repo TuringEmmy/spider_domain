@@ -5,6 +5,7 @@
 # 对线程的代码进行修改
 
 import gevent.monkey
+
 gevent.monkey.patch_all()
 from gevent.pool import Pool
 
@@ -12,6 +13,8 @@ import requests
 from lxml import etree
 
 from queue import Queue
+
+
 # from multiprocessing.dummy import Pool
 
 # 注意：dummy下面全是线程,默认是cpu个
@@ -91,19 +94,20 @@ class QiushiSpider():
             # 调用线程池的异步方法去不断的处理一个url直到处理完毕
             self.pool.apply_async(self.exetute_request_item_save, callback=self._callback)
 
-        # 不断判断是否退出程序
-        while True:
+            # 不断判断是否退出程序
+            while True:
 
-            # 为什么要在这里停一下呢，协程模式必须让主进程停止一段时间！
-            time.sleep(0.000001)
+                # 为什么要在这里停一下呢，协程模式必须让主进程停止一段时间！
+                time.sleep(0.000001)
 
-            if self.total_responses_nums >= self.url_nums:
-                self.is_running = False
-                break
+                if self.total_responses_nums >= self.url_nums:
+                    self.is_running = False
+                    break
         print('over')
 
         # 只有线程才有
         # self.pool.close()
+
 
 if __name__ == '__main__':
     import time

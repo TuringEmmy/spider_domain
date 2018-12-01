@@ -5,7 +5,6 @@
 
 from pymongo import MongoClient
 
-from urllib.parse import quote_plus
 
 '''
 需要权限认证

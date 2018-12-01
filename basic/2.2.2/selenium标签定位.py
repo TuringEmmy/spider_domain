@@ -5,7 +5,7 @@
 
 from selenium import webdriver
 
-driver = webdriver.Chrome(executable_path='/home/worker/Desktop/driver/chromedriver')
+driver = webdriver.Chrome(executable_path='/mnt/hgfs/WorkSpace/driver/chromedriver50')
 
 
 driver.get('http://www.itcast.cn')
@@ -15,7 +15,9 @@ print('-'*60)
 print('定位方法')
 print('-'*60)
 
-ret = driver.find_element_by_xpath('//div[@class="city"]/h3[1]')
+ret = driver.find_element_by_xpath('//div[@class="city"]/h3')
 
 print(ret.text)
+
+driver.quit()
 

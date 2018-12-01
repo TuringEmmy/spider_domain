@@ -28,7 +28,7 @@ class QiushiSpider():
     def get_url_list(self):
         # 把所有url放入url队列中
         for i in range(1, 14):
-            self.URL_q.put('https://www.qiushibaike.com/8hr/page/1/'.format(i))
+            self.URL_q.put('https://www.qiushibaike.com/8hr/page/{}/'.format(i))
 
     def get_html(self):
         while True:
@@ -91,7 +91,7 @@ class QiushiSpider():
         t_list.append(t_save)
 
         for t in t_list:
-            # 设为守护线程，子线程借宿，子线程随之借宿
+            # 设为守护线程，子线程结束，子线程随之结束
             t.setDaemon(True)
             t.start()
 

@@ -5,7 +5,7 @@
 
 from selenium import webdriver
 
-driver = webdriver.Chrome('/home/worker/Desktop/driver/chromedriver')
+driver = webdriver.Chrome('/mnt/hgfs/WorkSpace/driver/chromedriver50')
 
 driver.get('http://www.baidu.com')
 # 返回标签对象
@@ -21,7 +21,9 @@ print('查看网页的源代码')
 print('-' * 60)
 
 html_str = driver.page_source
-print(html_str)
+with open("my.html", 'w') as f:
+    f.write(html_str)
+# print(html_str)
 
 print('\n')
 print('-' * 60)
@@ -31,5 +33,3 @@ print('-' * 60)
 print(driver.get_cookies())
 
 driver.quit()
-
-

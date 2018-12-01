@@ -5,7 +5,7 @@
 
 from selenium import webdriver
 
-driver = webdriver.Chrome(executable_path='/home/worker/Desktop/driver/chromedriver')
+driver = webdriver.Chrome(executable_path='/mnt/hgfs/WorkSpace/driver/chromedriver50')
 driver.get('http://www.baidu.com')
 
 cookies_list = driver.get_cookies()

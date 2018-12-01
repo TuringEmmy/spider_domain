@@ -77,15 +77,14 @@ class TiebaSpider():
 
             # 组装数据
 
-    def excute_item(self,item):
+    def excute_item(self, item):
         """处理保存的数据"""
 
     def _main(self):
         html = self.get_html(self.start_url)
         self.get_item(html)
 
-        next_list_href=html.xpath('//a[text()=""')
-
+        next_list_href = html.xpath('//a[text()=""')
 
     def run(self):
         self._main()

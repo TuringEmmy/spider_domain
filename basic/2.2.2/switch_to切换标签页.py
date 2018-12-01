@@ -6,7 +6,7 @@ import time
 
 from selenium import webdriver
 
-driver = webdriver.Chrome(executable_path='/home/worker/Desktop/driver/chromedriver')
+driver = webdriver.Chrome(executable_path='/mnt/hgfs/WorkSpace/driver/chromedriver50')
 driver.get('http://www.taobao.com')
 time.sleep(1)
 
@@ -25,4 +25,5 @@ windows_list = driver.window_handles
 driver.switch_to.window(windows_list[1])
 print(driver.current_url)  # https://www.sogou.com/
 
+time.sleep(5)
 driver.quit()

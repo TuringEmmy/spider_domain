@@ -5,7 +5,7 @@
 
 from selenium import webdriver
 #
-driver = webdriver.PhantomJS(executable_path='/home/worker/Desktop/driver/phantomjs')
+driver = webdriver.PhantomJS(executable_path='/mnt/hgfs/WorkSpace/driver/phantomjs')
 # driver = webdriver.Chrome(executable_path='/home/worker/Desktop/driver/chromedriver')
 
 driver.get("http://www.baidu.com")

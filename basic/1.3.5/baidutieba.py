@@ -42,7 +42,8 @@ from lxml import etree
 class TiebaSpider():
     def __init__(self, spider_name):
         # 1. 确定贴吧名字,组装该贴吧的start_url
-        self.start_url = 'http://tieba.baidu.com/mo/q----,sz@320_240-1-3---2/m?kw={}&lp=5011&lm=&pn=0'.format(spider_name)
+        self.start_url = 'http://tieba.baidu.com/mo/q----,sz@320_240-1-3---2/m?kw={}&lp=5011&lm=&pn=0'.format(
+            spider_name)
         self.headers = {
             'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1'
         }
@@ -64,11 +65,10 @@ class TiebaSpider():
         if detail_next_href != []:
             detail_next_url = 'http://tieba.baidu.com/mo/q----,sz@320_240-1-3---2/' + \
                               detail_next_href[0]  # 拼接详情页下一页的url
-        # # d. 重复a步骤,直到最后一页
+            # # d. 重复a步骤,直到最后一页
             """其实就是回调自己"""
             self._get_img_list(detail_next_url, img_list)
         return img_list
-
 
     def _get_list(self, html):
         """获取当前列表页所有帖子的名字和链接"""
@@ -86,6 +86,16 @@ class TiebaSpider():
 
     def _excute_item(self, item):
         """处理或保存数据"""
+        with open('girl.txt','a') as f:
+            f.write(item['title'])
+            f.write(":------>")
+            # for img in item['img_list']:
+            #     f.write(img)
+            f.write("|||||")
+            # f.write(item["detail_url"])
+            f.write("\n")
+        # print(item['title'])
+
         print(item)
 
     def _excute_list_page_and_return_next_url(self, list_url):
@@ -110,13 +120,12 @@ class TiebaSpider():
         else:
             return None
 
-
     def _main(self, page):
         """贴吧爬虫运行的逻辑流程"""
         next_list_url = self.start_url
 
         i = 0
-        while i<page:
+        while i < page:
             """不断处理每一页的列表页,并返回列表页的下一页的url"""
             next_list_url = self._excute_list_page_and_return_next_url(next_list_url)
             if next_list_url is None:
@@ -124,7 +133,7 @@ class TiebaSpider():
 
             if page == 0:  # 要爬取全网站的数据
                 i -= 1
-            else: # 爬取指定页数的数据
+            else:  # 爬取指定页数的数据
                 i += 1
 
     def run(self, page=0):
@@ -132,8 +141,6 @@ class TiebaSpider():
         self._main(page)
 
 
-
 if __name__ == '__main__':
-
-    spider = TiebaSpider('lol')
+    spider = TiebaSpider('美女')
     spider.run(page=2)
