@@ -2,281 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="358dc6ca-9af5-45ea-8afe-2b0ea1cc8b95" name="Default Changelist" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/1.2.1/baidu.png" afterPath="$PROJECT_DIR$/basic/1.2.1/baidu.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/2.2.2/chrome.png" afterPath="$PROJECT_DIR$/basic/2.2.2/chrome.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/2.3.2/captcha.jpg" afterPath="$PROJECT_DIR$/basic/2.3.2/captcha.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/image/TuringEmmy_2018-11-25_20-00-06.jpg" afterPath="$PROJECT_DIR$/note/image/TuringEmmy_2018-11-25_20-00-06.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/image/js的绑定事件.png" afterPath="$PROJECT_DIR$/note/image/js的绑定事件.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/image/searchallfile搜索关键字.png" afterPath="$PROJECT_DIR$/note/image/searchallfile搜索关键字.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/image/添加断点.png" afterPath="$PROJECT_DIR$/note/image/添加断点.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/image/点击美化输出.png" afterPath="$PROJECT_DIR$/note/image/点击美化输出.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/image/爬虫流程-3.png" afterPath="$PROJECT_DIR$/note/image/爬虫流程-3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/image/继续在其中搜索关键字.png" afterPath="$PROJECT_DIR$/note/image/继续在其中搜索关键字.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/spider09/生产环境中的web.pptx" afterPath="$PROJECT_DIR$/note/spider09/生产环境中的web.pptx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider12/Ten/dbs/Ten.db" afterPath="$PROJECT_DIR$/spider12/Ten/dbs/Ten.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider12/Ten/dbs/default.db" afterPath="$PROJECT_DIR$/spider12/Ten/dbs/default.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider12/Ten/eggs/Ten/1543394020.egg" afterPath="$PROJECT_DIR$/spider12/Ten/eggs/Ten/1543394020.egg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/spider_study.iml" afterPath="$PROJECT_DIR$/.idea/spider_study.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/1.2.1/__init__.py" afterPath="$PROJECT_DIR$/basic/1.2.1/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/1.2.1/get请求获取百度首页.py" afterPath="$PROJECT_DIR$/basic/1.2.1/get请求获取百度首页.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/1.2.1/保存图片到本地.py" afterPath="$PROJECT_DIR$/basic/1.2.1/保存图片到本地.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/1.2.2/__init__.py" afterPath="$PROJECT_DIR$/basic/1.2.2/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/1.2.2/demo.py" afterPath="$PROJECT_DIR$/basic/1.2.2/demo.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/1.3.2/__init__.py" afterPath="$PROJECT_DIR$/basic/1.3.2/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/1.3.2/demo.py" afterPath="$PROJECT_DIR$/basic/1.3.2/demo.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/1.3.2/jsonpath模块.py" afterPath="$PROJECT_DIR$/basic/1.3.2/jsonpath模块.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/1.3.2/json模块的使用.py" afterPath="$PROJECT_DIR$/basic/1.3.2/json模块的使用.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/1.3.2/mydict.json" afterPath="$PROJECT_DIR$/basic/1.3.2/mydict.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/1.3.2/re模块的复习.py" afterPath="$PROJECT_DIR$/basic/1.3.2/re模块的复习.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/1.3.5/__init__.py" afterPath="$PROJECT_DIR$/basic/1.3.5/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/1.3.5/baidutieba.py" afterPath="$PROJECT_DIR$/basic/1.3.5/baidutieba.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/1.3.5/提取lxml.py" afterPath="$PROJECT_DIR$/basic/1.3.5/提取lxml.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/1.3.5/百度贴吧移动版爬虫.py" afterPath="$PROJECT_DIR$/basic/1.3.5/百度贴吧移动版爬虫.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/1.3.6/__init__.py" afterPath="$PROJECT_DIR$/basic/1.3.6/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/1.3.6/mutli_threading_spider.py" afterPath="$PROJECT_DIR$/basic/1.3.6/mutli_threading_spider.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/1.3.6/mutlib_process_spider.py" afterPath="$PROJECT_DIR$/basic/1.3.6/mutlib_process_spider.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/1.3.6/qiushi.html" afterPath="$PROJECT_DIR$/basic/1.3.6/qiushi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/1.3.6/singal_threding_spider.py" afterPath="$PROJECT_DIR$/basic/1.3.6/singal_threding_spider.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/1.3.6/了解bs4模块.py" afterPath="$PROJECT_DIR$/basic/1.3.6/了解bs4模块.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/1.3.6/协程池.py" afterPath="$PROJECT_DIR$/basic/1.3.6/协程池.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/1.3.6/线程池.py" afterPath="$PROJECT_DIR$/basic/1.3.6/线程池.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/2.2.2/QQ_login.py" afterPath="$PROJECT_DIR$/basic/2.2.2/QQ_login.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/2.2.2/__init__.py" afterPath="$PROJECT_DIR$/basic/2.2.2/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/2.2.2/douyu/__init__.py" afterPath="$PROJECT_DIR$/basic/2.2.2/douyu/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/2.2.2/douyu/index.py" afterPath="$PROJECT_DIR$/basic/2.2.2/douyu/index.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/2.2.2/selenium处理cookies.py" afterPath="$PROJECT_DIR$/basic/2.2.2/selenium处理cookies.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/2.2.2/selenium标签.py" afterPath="$PROJECT_DIR$/basic/2.2.2/selenium标签.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/2.2.2/selenium标签定位.py" afterPath="$PROJECT_DIR$/basic/2.2.2/selenium标签定位.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/2.2.2/selenium简介.py" afterPath="$PROJECT_DIR$/basic/2.2.2/selenium简介.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/2.2.2/selenium进行百度搜索.py" afterPath="$PROJECT_DIR$/basic/2.2.2/selenium进行百度搜索.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/2.2.2/switch_to切换标签页.py" afterPath="$PROJECT_DIR$/basic/2.2.2/switch_to切换标签页.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/2.2.2/使用无界面模式.py" afterPath="$PROJECT_DIR$/basic/2.2.2/使用无界面模式.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/2.2.2/无头案例.py" afterPath="$PROJECT_DIR$/basic/2.2.2/无头案例.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/2.2.2/测试.py" afterPath="$PROJECT_DIR$/basic/2.2.2/测试.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/2.2.2/页面等待.py" afterPath="$PROJECT_DIR$/basic/2.2.2/页面等待.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/2.3.2/__init__.py" afterPath="$PROJECT_DIR$/basic/2.3.2/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/2.3.2/url地址不变验证图片发生改变.py" afterPath="$PROJECT_DIR$/basic/2.3.2/url地址不变验证图片发生改变.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/2.3.2/yundama_demo.py" afterPath="$PROJECT_DIR$/basic/2.3.2/yundama_demo.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/2.3.3/Barrett.js" afterPath="$PROJECT_DIR$/basic/2.3.3/Barrett.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/2.3.3/BigInt.js" afterPath="$PROJECT_DIR$/basic/2.3.3/BigInt.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/2.3.3/RSA.js" afterPath="$PROJECT_DIR$/basic/2.3.3/RSA.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/2.3.3/__init__.py" afterPath="$PROJECT_DIR$/basic/2.3.3/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/2.3.3/利用js2py模块获取js加密的值.py" afterPath="$PROJECT_DIR$/basic/2.3.3/利用js2py模块获取js加密的值.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/2.4.7/__init__.py" afterPath="$PROJECT_DIR$/basic/2.4.7/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/2.4.7/pymongo模块-普通用户.py" afterPath="$PROJECT_DIR$/basic/2.4.7/pymongo模块-普通用户.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/2.4.7/pymongo模块-权限用户.py" afterPath="$PROJECT_DIR$/basic/2.4.7/pymongo模块-权限用户.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/2.4.7/pymongo的增删改查.py" afterPath="$PROJECT_DIR$/basic/2.4.7/pymongo的增删改查.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/2.4.7/scrapy的开馆之战.py" afterPath="$PROJECT_DIR$/basic/2.4.7/scrapy的开馆之战.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/__init__.py" afterPath="$PROJECT_DIR$/basic/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo.py" afterPath="$PROJECT_DIR$/demo.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/spider01/requests模块课堂笔记.md" afterPath="$PROJECT_DIR$/note/spider01/requests模块课堂笔记.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/spider01/总结.md" afterPath="$PROJECT_DIR$/note/spider01/总结.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/spider01/课堂笔记.md" afterPath="$PROJECT_DIR$/note/spider01/课堂笔记.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/spider02/复习.md" afterPath="$PROJECT_DIR$/note/spider02/复习.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/spider02/总结.md" afterPath="$PROJECT_DIR$/note/spider02/总结.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/spider02/课堂笔记.md" afterPath="$PROJECT_DIR$/note/spider02/课堂笔记.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/spider03/复习.md" afterPath="$PROJECT_DIR$/note/spider03/复习.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/spider03/总结.md" afterPath="$PROJECT_DIR$/note/spider03/总结.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/spider03/课堂笔记.md" afterPath="$PROJECT_DIR$/note/spider03/课堂笔记.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/spider04/复习.md" afterPath="$PROJECT_DIR$/note/spider04/复习.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/spider04/总结.md" afterPath="$PROJECT_DIR$/note/spider04/总结.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/spider04/课堂笔记.md" afterPath="$PROJECT_DIR$/note/spider04/课堂笔记.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/spider05/复习.md" afterPath="$PROJECT_DIR$/note/spider05/复习.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/spider05/总结.md" afterPath="$PROJECT_DIR$/note/spider05/总结.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/spider05/课堂笔记.md" afterPath="$PROJECT_DIR$/note/spider05/课堂笔记.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/spider07/复习.md" afterPath="$PROJECT_DIR$/note/spider07/复习.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/spider07/总结.md" afterPath="$PROJECT_DIR$/note/spider07/总结.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/spider07/课堂笔记.md" afterPath="$PROJECT_DIR$/note/spider07/课堂笔记.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/spider08/pymongo课堂笔记.md" afterPath="$PROJECT_DIR$/note/spider08/pymongo课堂笔记.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/spider08/scrapy课堂笔记.md" afterPath="$PROJECT_DIR$/note/spider08/scrapy课堂笔记.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/spider08/复习.md" afterPath="$PROJECT_DIR$/note/spider08/复习.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/spider08/总结.md" afterPath="$PROJECT_DIR$/note/spider08/总结.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/spider09/复习.md" afterPath="$PROJECT_DIR$/note/spider09/复习.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/spider09/总结.md" afterPath="$PROJECT_DIR$/note/spider09/总结.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/spider09/课堂笔记.md" afterPath="$PROJECT_DIR$/note/spider09/课堂笔记.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/spider10/复习.md" afterPath="$PROJECT_DIR$/note/spider10/复习.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/spider10/总结.md" afterPath="$PROJECT_DIR$/note/spider10/总结.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/spider10/课堂笔记.md" afterPath="$PROJECT_DIR$/note/spider10/课堂笔记.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/spider11/复习.md" afterPath="$PROJECT_DIR$/note/spider11/复习.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/spider11/总结.md" afterPath="$PROJECT_DIR$/note/spider11/总结.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/spider11/课堂笔记.md" afterPath="$PROJECT_DIR$/note/spider11/课堂笔记.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/spider12/复习.md" afterPath="$PROJECT_DIR$/note/spider12/复习.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/spider12/总结.md" afterPath="$PROJECT_DIR$/note/spider12/总结.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/spider12/课堂笔记.md" afterPath="$PROJECT_DIR$/note/spider12/课堂笔记.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/爬虫笔记1.md" afterPath="$PROJECT_DIR$/note/爬虫笔记1.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/爬虫笔记10.md" afterPath="$PROJECT_DIR$/note/爬虫笔记10.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/爬虫笔记11.md" afterPath="$PROJECT_DIR$/note/爬虫笔记11.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/爬虫笔记12.md" afterPath="$PROJECT_DIR$/note/爬虫笔记12.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/爬虫笔记2.md" afterPath="$PROJECT_DIR$/note/爬虫笔记2.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/爬虫笔记3.md" afterPath="$PROJECT_DIR$/note/爬虫笔记3.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/爬虫笔记4.md" afterPath="$PROJECT_DIR$/note/爬虫笔记4.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/爬虫笔记5.md" afterPath="$PROJECT_DIR$/note/爬虫笔记5.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/爬虫笔记6.md" afterPath="$PROJECT_DIR$/note/爬虫笔记6.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/爬虫笔记7.md" afterPath="$PROJECT_DIR$/note/爬虫笔记7.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/爬虫笔记8.md" afterPath="$PROJECT_DIR$/note/爬虫笔记8.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/爬虫笔记9.md" afterPath="$PROJECT_DIR$/note/爬虫笔记9.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/GitHub/GitHub/__init__.py" afterPath="$PROJECT_DIR$/project/GitHub/GitHub/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/GitHub/GitHub/items.py" afterPath="$PROJECT_DIR$/project/GitHub/GitHub/items.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/GitHub/GitHub/middlewares.py" afterPath="$PROJECT_DIR$/project/GitHub/GitHub/middlewares.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/GitHub/GitHub/pipelines.py" afterPath="$PROJECT_DIR$/project/GitHub/GitHub/pipelines.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/GitHub/GitHub/settings.py" afterPath="$PROJECT_DIR$/project/GitHub/GitHub/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/GitHub/GitHub/spiders/__init__.py" afterPath="$PROJECT_DIR$/project/GitHub/GitHub/spiders/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/GitHub/GitHub/spiders/login.py" afterPath="$PROJECT_DIR$/project/GitHub/GitHub/spiders/login.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/GitHub/GitHub/spiders/login_.py" afterPath="$PROJECT_DIR$/project/GitHub/GitHub/spiders/login_.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/GitHub/GitHub/spiders/pipline.py" afterPath="$PROJECT_DIR$/project/GitHub/GitHub/spiders/pipline.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/GitHub/code_login_by_it_self.html" afterPath="$PROJECT_DIR$/project/GitHub/code_login_by_it_self.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/GitHub/login.html" afterPath="$PROJECT_DIR$/project/GitHub/login.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/GitHub/name.txt" afterPath="$PROJECT_DIR$/project/GitHub/name.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/GitHub/scrapy.cfg" afterPath="$PROJECT_DIR$/project/GitHub/scrapy.cfg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/GitHub/title.txt" afterPath="$PROJECT_DIR$/project/GitHub/title.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/Tencent/Tencent/__init__.py" afterPath="$PROJECT_DIR$/project/Tencent/Tencent/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/Tencent/Tencent/items.py" afterPath="$PROJECT_DIR$/project/Tencent/Tencent/items.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/Tencent/Tencent/middlewares.py" afterPath="$PROJECT_DIR$/project/Tencent/Tencent/middlewares.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/Tencent/Tencent/pipelines.py" afterPath="$PROJECT_DIR$/project/Tencent/Tencent/pipelines.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/Tencent/Tencent/settings.py" afterPath="$PROJECT_DIR$/project/Tencent/Tencent/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/Tencent/Tencent/spiders/__init__.py" afterPath="$PROJECT_DIR$/project/Tencent/Tencent/spiders/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/Tencent/Tencent/spiders/baseItemUse.py" afterPath="$PROJECT_DIR$/project/Tencent/Tencent/spiders/baseItemUse.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/Tencent/Tencent/spiders/detail.py" afterPath="$PROJECT_DIR$/project/Tencent/Tencent/spiders/detail.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/Tencent/Tencent/spiders/tencent.py" afterPath="$PROJECT_DIR$/project/Tencent/Tencent/spiders/tencent.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/Tencent/scrapy.cfg" afterPath="$PROJECT_DIR$/project/Tencent/scrapy.cfg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/__init__.py" afterPath="$PROJECT_DIR$/project/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tspider/__init__.py" afterPath="$PROJECT_DIR$/project/tspider/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tspider/scrapy.cfg" afterPath="$PROJECT_DIR$/project/tspider/scrapy.cfg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tspider/tspider/__init__.py" afterPath="$PROJECT_DIR$/project/tspider/tspider/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tspider/tspider/items.py" afterPath="$PROJECT_DIR$/project/tspider/tspider/items.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tspider/tspider/middlewares.py" afterPath="$PROJECT_DIR$/project/tspider/tspider/middlewares.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tspider/tspider/pipelines.py" afterPath="$PROJECT_DIR$/project/tspider/tspider/pipelines.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tspider/tspider/settings.py" afterPath="$PROJECT_DIR$/project/tspider/tspider/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tspider/tspider/spiders/__init__.py" afterPath="$PROJECT_DIR$/project/tspider/tspider/spiders/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/tspider/tspider/spiders/turing.py" afterPath="$PROJECT_DIR$/project/tspider/tspider/spiders/turing.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/request.txt" afterPath="$PROJECT_DIR$/request.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider10/Ten/Ten/__init__.py" afterPath="$PROJECT_DIR$/spider10/Ten/Ten/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider10/Ten/Ten/items.py" afterPath="$PROJECT_DIR$/spider10/Ten/Ten/items.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider10/Ten/Ten/middlewares.py" afterPath="$PROJECT_DIR$/spider10/Ten/Ten/middlewares.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider10/Ten/Ten/pipelines.py" afterPath="$PROJECT_DIR$/spider10/Ten/Ten/pipelines.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider10/Ten/Ten/settings.py" afterPath="$PROJECT_DIR$/spider10/Ten/Ten/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider10/Ten/Ten/spiders/__init__.py" afterPath="$PROJECT_DIR$/spider10/Ten/Ten/spiders/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider10/Ten/Ten/spiders/title.py" afterPath="$PROJECT_DIR$/spider10/Ten/Ten/spiders/title.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider10/Ten/question.md" afterPath="$PROJECT_DIR$/spider10/Ten/question.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider10/Ten/readmd.md" afterPath="$PROJECT_DIR$/spider10/Ten/readmd.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider10/Ten/scrapy.cfg" afterPath="$PROJECT_DIR$/spider10/Ten/scrapy.cfg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider10/Tencent/Tencent/__init__.py" afterPath="$PROJECT_DIR$/spider10/Tencent/Tencent/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider10/Tencent/Tencent/items.py" afterPath="$PROJECT_DIR$/spider10/Tencent/Tencent/items.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider10/Tencent/Tencent/middlewares.py" afterPath="$PROJECT_DIR$/spider10/Tencent/Tencent/middlewares.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider10/Tencent/Tencent/pipelines.py" afterPath="$PROJECT_DIR$/spider10/Tencent/Tencent/pipelines.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider10/Tencent/Tencent/settings.py" afterPath="$PROJECT_DIR$/spider10/Tencent/Tencent/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider10/Tencent/Tencent/spiders/__init__.py" afterPath="$PROJECT_DIR$/spider10/Tencent/Tencent/spiders/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider10/Tencent/Tencent/spiders/baseItemUse.py" afterPath="$PROJECT_DIR$/spider10/Tencent/Tencent/spiders/baseItemUse.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider10/Tencent/Tencent/spiders/detail.py" afterPath="$PROJECT_DIR$/spider10/Tencent/Tencent/spiders/detail.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider10/Tencent/Tencent/spiders/tencent.py" afterPath="$PROJECT_DIR$/spider10/Tencent/Tencent/spiders/tencent.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider10/Tencent/scrapy.cfg" afterPath="$PROJECT_DIR$/spider10/Tencent/scrapy.cfg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider10/__init__.py" afterPath="$PROJECT_DIR$/spider10/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider10/selenium_demo/check.html" afterPath="$PROJECT_DIR$/spider10/selenium_demo/check.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider10/selenium_demo/scrapy.cfg" afterPath="$PROJECT_DIR$/spider10/selenium_demo/scrapy.cfg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider10/selenium_demo/selenium_demo/__init__.py" afterPath="$PROJECT_DIR$/spider10/selenium_demo/selenium_demo/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider10/selenium_demo/selenium_demo/items.py" afterPath="$PROJECT_DIR$/spider10/selenium_demo/selenium_demo/items.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider10/selenium_demo/selenium_demo/middlewares.py" afterPath="$PROJECT_DIR$/spider10/selenium_demo/selenium_demo/middlewares.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider10/selenium_demo/selenium_demo/pipelines.py" afterPath="$PROJECT_DIR$/spider10/selenium_demo/selenium_demo/pipelines.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider10/selenium_demo/selenium_demo/settings.py" afterPath="$PROJECT_DIR$/spider10/selenium_demo/selenium_demo/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider10/selenium_demo/selenium_demo/spiders/__init__.py" afterPath="$PROJECT_DIR$/spider10/selenium_demo/selenium_demo/spiders/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider10/selenium_demo/selenium_demo/spiders/login.py" afterPath="$PROJECT_DIR$/spider10/selenium_demo/selenium_demo/spiders/login.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider10/tspider/__init__.py" afterPath="$PROJECT_DIR$/spider10/tspider/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider10/tspider/scrapy.cfg" afterPath="$PROJECT_DIR$/spider10/tspider/scrapy.cfg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider10/tspider/tspider/__init__.py" afterPath="$PROJECT_DIR$/spider10/tspider/tspider/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider10/tspider/tspider/items.py" afterPath="$PROJECT_DIR$/spider10/tspider/tspider/items.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider10/tspider/tspider/middlewares.py" afterPath="$PROJECT_DIR$/spider10/tspider/tspider/middlewares.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider10/tspider/tspider/pipelines.py" afterPath="$PROJECT_DIR$/spider10/tspider/tspider/pipelines.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider10/tspider/tspider/settings.py" afterPath="$PROJECT_DIR$/spider10/tspider/tspider/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider10/tspider/tspider/spiders/__init__.py" afterPath="$PROJECT_DIR$/spider10/tspider/tspider/spiders/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider10/tspider/tspider/spiders/turing.py" afterPath="$PROJECT_DIR$/spider10/tspider/tspider/spiders/turing.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider11/Ten/Ten/__init__.py" afterPath="$PROJECT_DIR$/spider11/Ten/Ten/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider11/Ten/Ten/items.py" afterPath="$PROJECT_DIR$/spider11/Ten/Ten/items.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider11/Ten/Ten/middlewares.py" afterPath="$PROJECT_DIR$/spider11/Ten/Ten/middlewares.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider11/Ten/Ten/pipelines.py" afterPath="$PROJECT_DIR$/spider11/Ten/Ten/pipelines.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider11/Ten/Ten/readme.md" afterPath="$PROJECT_DIR$/spider11/Ten/Ten/readme.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider11/Ten/Ten/settings.py" afterPath="$PROJECT_DIR$/spider11/Ten/Ten/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider11/Ten/Ten/spiders/__init__.py" afterPath="$PROJECT_DIR$/spider11/Ten/Ten/spiders/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider11/Ten/Ten/spiders/tencent.py" afterPath="$PROJECT_DIR$/spider11/Ten/Ten/spiders/tencent.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider11/Ten/Ten/spiders/title.py" afterPath="$PROJECT_DIR$/spider11/Ten/Ten/spiders/title.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider11/Ten/question.md" afterPath="$PROJECT_DIR$/spider11/Ten/question.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider11/Ten/readmd.md" afterPath="$PROJECT_DIR$/spider11/Ten/readmd.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider11/Ten/scrapy.cfg" afterPath="$PROJECT_DIR$/spider11/Ten/scrapy.cfg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider11/__init__.py" afterPath="$PROJECT_DIR$/spider11/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider11/example-project/Dockerfile" afterPath="$PROJECT_DIR$/spider11/example-project/Dockerfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider11/example-project/README.rst" afterPath="$PROJECT_DIR$/spider11/example-project/README.rst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider11/example-project/docker-compose.yml" afterPath="$PROJECT_DIR$/spider11/example-project/docker-compose.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider11/example-project/example/__init__.py" afterPath="$PROJECT_DIR$/spider11/example-project/example/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider11/example-project/example/items.py" afterPath="$PROJECT_DIR$/spider11/example-project/example/items.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider11/example-project/example/pipelines.py" afterPath="$PROJECT_DIR$/spider11/example-project/example/pipelines.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider11/example-project/example/readem.md" afterPath="$PROJECT_DIR$/spider11/example-project/example/readem.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider11/example-project/example/settings.py" afterPath="$PROJECT_DIR$/spider11/example-project/example/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider11/example-project/example/spiders/__init__.py" afterPath="$PROJECT_DIR$/spider11/example-project/example/spiders/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider11/example-project/example/spiders/dmoz.py" afterPath="$PROJECT_DIR$/spider11/example-project/example/spiders/dmoz.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider11/example-project/example/spiders/mycrawler_redis.py" afterPath="$PROJECT_DIR$/spider11/example-project/example/spiders/mycrawler_redis.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider11/example-project/example/spiders/myspider_redis.py" afterPath="$PROJECT_DIR$/spider11/example-project/example/spiders/myspider_redis.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider11/example-project/process_items.py" afterPath="$PROJECT_DIR$/spider11/example-project/process_items.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider11/example-project/requirements.txt" afterPath="$PROJECT_DIR$/spider11/example-project/requirements.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider11/example-project/scrapy.cfg" afterPath="$PROJECT_DIR$/spider11/example-project/scrapy.cfg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider11/readme.md" afterPath="$PROJECT_DIR$/spider11/readme.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider12/Itcast/Itcast/__init__.py" afterPath="$PROJECT_DIR$/spider12/Itcast/Itcast/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider12/Itcast/Itcast/items.py" afterPath="$PROJECT_DIR$/spider12/Itcast/Itcast/items.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider12/Itcast/Itcast/middlewares.py" afterPath="$PROJECT_DIR$/spider12/Itcast/Itcast/middlewares.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider12/Itcast/Itcast/pipelines.py" afterPath="$PROJECT_DIR$/spider12/Itcast/Itcast/pipelines.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider12/Itcast/Itcast/self_dupefilter.py" afterPath="$PROJECT_DIR$/spider12/Itcast/Itcast/self_dupefilter.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider12/Itcast/Itcast/settings.py" afterPath="$PROJECT_DIR$/spider12/Itcast/Itcast/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider12/Itcast/Itcast/spiders/__init__.py" afterPath="$PROJECT_DIR$/spider12/Itcast/Itcast/spiders/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider12/Itcast/Itcast/spiders/itcast.py" afterPath="$PROJECT_DIR$/spider12/Itcast/Itcast/spiders/itcast.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider12/Itcast/scrapy.cfg" afterPath="$PROJECT_DIR$/spider12/Itcast/scrapy.cfg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider12/Ten/Ten/__init__.py" afterPath="$PROJECT_DIR$/spider12/Ten/Ten/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider12/Ten/Ten/items.py" afterPath="$PROJECT_DIR$/spider12/Ten/Ten/items.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider12/Ten/Ten/middlewares.py" afterPath="$PROJECT_DIR$/spider12/Ten/Ten/middlewares.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider12/Ten/Ten/pipelines.py" afterPath="$PROJECT_DIR$/spider12/Ten/Ten/pipelines.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider12/Ten/Ten/settings.py" afterPath="$PROJECT_DIR$/spider12/Ten/Ten/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider12/Ten/Ten/spiders/__init__.py" afterPath="$PROJECT_DIR$/spider12/Ten/Ten/spiders/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider12/Ten/Ten/spiders/title.py" afterPath="$PROJECT_DIR$/spider12/Ten/Ten/spiders/title.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider12/Ten/build/lib/Ten/__init__.py" afterPath="$PROJECT_DIR$/spider12/Ten/build/lib/Ten/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider12/Ten/build/lib/Ten/items.py" afterPath="$PROJECT_DIR$/spider12/Ten/build/lib/Ten/items.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider12/Ten/build/lib/Ten/middlewares.py" afterPath="$PROJECT_DIR$/spider12/Ten/build/lib/Ten/middlewares.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider12/Ten/build/lib/Ten/pipelines.py" afterPath="$PROJECT_DIR$/spider12/Ten/build/lib/Ten/pipelines.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider12/Ten/build/lib/Ten/settings.py" afterPath="$PROJECT_DIR$/spider12/Ten/build/lib/Ten/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider12/Ten/build/lib/Ten/spiders/__init__.py" afterPath="$PROJECT_DIR$/spider12/Ten/build/lib/Ten/spiders/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider12/Ten/build/lib/Ten/spiders/title.py" afterPath="$PROJECT_DIR$/spider12/Ten/build/lib/Ten/spiders/title.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider12/Ten/logs/Ten/title/c9118830f2e911e8b5ff000c29ff341f.log" afterPath="$PROJECT_DIR$/spider12/Ten/logs/Ten/title/c9118830f2e911e8b5ff000c29ff341f.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider12/Ten/project.egg-info/PKG-INFO" afterPath="$PROJECT_DIR$/spider12/Ten/project.egg-info/PKG-INFO" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider12/Ten/project.egg-info/SOURCES.txt" afterPath="$PROJECT_DIR$/spider12/Ten/project.egg-info/SOURCES.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider12/Ten/project.egg-info/dependency_links.txt" afterPath="$PROJECT_DIR$/spider12/Ten/project.egg-info/dependency_links.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider12/Ten/project.egg-info/entry_points.txt" afterPath="$PROJECT_DIR$/spider12/Ten/project.egg-info/entry_points.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider12/Ten/project.egg-info/top_level.txt" afterPath="$PROJECT_DIR$/spider12/Ten/project.egg-info/top_level.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider12/Ten/question.md" afterPath="$PROJECT_DIR$/spider12/Ten/question.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider12/Ten/readmd.md" afterPath="$PROJECT_DIR$/spider12/Ten/readmd.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider12/Ten/scrapy.cfg" afterPath="$PROJECT_DIR$/spider12/Ten/scrapy.cfg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider12/Ten/setup.py" afterPath="$PROJECT_DIR$/spider12/Ten/setup.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider12/Ten/通过scrapyd控制webapi的启动.py" afterPath="$PROJECT_DIR$/spider12/Ten/通过scrapyd控制webapi的启动.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider12/__init__.py" afterPath="$PROJECT_DIR$/spider12/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider12/定时/main.py" afterPath="$PROJECT_DIR$/spider12/定时/main.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider12/定时/run.log" afterPath="$PROJECT_DIR$/spider12/定时/run.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider12/定时/run1.log" afterPath="$PROJECT_DIR$/spider12/定时/run1.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider12/定时/spider.sh" afterPath="$PROJECT_DIR$/spider12/定时/spider.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider12/定时/定时任务.py" afterPath="$PROJECT_DIR$/spider12/定时/定时任务.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/turing.py" afterPath="$PROJECT_DIR$/turing.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/CSDN/__init__.py" afterPath="$PROJECT_DIR$/work/CSDN/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/CSDN/demo.py" afterPath="$PROJECT_DIR$/work/CSDN/demo.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/CSDN/index.py" afterPath="$PROJECT_DIR$/work/CSDN/index.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/CSDN/spider.py" afterPath="$PROJECT_DIR$/work/CSDN/spider.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/bilibii/README.md" afterPath="$PROJECT_DIR$/work/bilibii/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/bilibii/__init__.py" afterPath="$PROJECT_DIR$/work/bilibii/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/bilibii/bilibili.py" afterPath="$PROJECT_DIR$/work/bilibii/bilibili.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/bilibii/xml.py" afterPath="$PROJECT_DIR$/work/bilibii/xml.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/xkdstu/__init__.py" afterPath="$PROJECT_DIR$/work/xkdstu/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/xkdstu/index.py" afterPath="$PROJECT_DIR$/work/xkdstu/index.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/xkdstu/study.py" afterPath="$PROJECT_DIR$/work/xkdstu/study.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -423,7 +149,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -505,9 +231,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="37" />
-    <option name="y" value="52" />
-    <option name="width" value="1329" />
-    <option name="height" value="716" />
+    <option name="y" value="24" />
+    <option name="width" value="1053" />
+    <option name="height" value="592" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -541,13 +267,13 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/TuringEmmyBookWeb" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -923,27 +649,27 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="37" y="52" width="1329" height="716" extended-state="0" />
+    <frame x="37" y="24" width="1053" height="592" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17147312" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17477657" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.43141153" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="563" y="367" width="750" height="401" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24941361" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3090615" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39967638" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.43141153" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="563" y="367" width="750" height="401" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39967638" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1172,9 +898,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="84" lean-forward="false" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="84" />
-          <folding>
-            <element signature="e#103#114#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1182,7 +905,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1190,7 +912,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="84" lean-forward="false" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="84" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1198,7 +919,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1206,7 +926,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1214,9 +933,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
           <caret line="155" column="10" lean-forward="true" selection-start-line="155" selection-start-column="10" selection-end-line="155" selection-end-column="10" />
-          <folding>
-            <element signature="n#style#0;n#a#8;n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1224,7 +940,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="498">
           <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1232,9 +947,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-          <folding>
-            <element signature="e#103#114#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1242,9 +954,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
-          <folding>
-            <marker date="1543678162000" expanded="true" signature="30792:30977" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1257,7 +966,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="258">
           <caret line="26" column="66" lean-forward="true" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="66" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1265,9 +973,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-896">
           <caret line="33" column="29" lean-forward="false" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
-          <folding>
-            <element signature="e#115#130#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1275,9 +980,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="93">
           <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="23" />
-          <folding>
-            <element signature="e#135#150#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1286,7 +988,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1297,7 +998,6 @@
         <state split_layout="SECOND">
           <first_editor relative-caret-position="165">
             <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1308,7 +1008,6 @@
         <state split_layout="SECOND">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1318,7 +1017,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="15" lean-forward="false" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1326,7 +1024,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="30" lean-forward="false" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1334,7 +1031,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1342,7 +1038,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="52" column="11" lean-forward="true" selection-start-line="52" selection-start-column="11" selection-end-line="52" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
