@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="358dc6ca-9af5-45ea-8afe-2b0ea1cc8b95" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/csw/csw/asd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csw/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/spider_study.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/spider_study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csw/csw/spiders/spider.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/csw/csw/asd.py" beforeDir="false" afterPath="$PROJECT_DIR$/csw/csw/asd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/csw/csw/medince.json" beforeDir="false" afterPath="$PROJECT_DIR$/csw/csw/medince.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/csw/csw/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/csw/csw/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/csw/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/csw/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/csw/medince.json" beforeDir="false" afterPath="$PROJECT_DIR$/csw/medince.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +17,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/spider_domain$asd.coverage" NAME="asd Coverage Results" MODIFIED="1552036664955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/csw/csw" />
+    <SUITE FILE_PATH="coverage/spider_domain$asd.coverage" NAME="asd Coverage Results" MODIFIED="1552040988354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/csw/csw" />
     <SUITE FILE_PATH="coverage/spider_study$.coverage" NAME="线程池 Coverage Results" MODIFIED="1543672694780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic/1.3.6" />
     <SUITE FILE_PATH="coverage/spider_study$url.coverage" NAME="url地址不变验证图片发生改变 Coverage Results" MODIFIED="1543678151681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic/2.3.2" />
     <SUITE FILE_PATH="coverage/spider_domain$medince.coverage" NAME="medince Coverage Results" MODIFIED="1552032049295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/csw/csw/spiders" />
@@ -24,16 +26,18 @@
     <SUITE FILE_PATH="coverage/spider_study$selenium.coverage" NAME="selenium进行百度搜索 Coverage Results" MODIFIED="1543677599462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic/2.2.2" />
     <SUITE FILE_PATH="coverage/spider_study$get.coverage" NAME="get请求获取百度首页 Coverage Results" MODIFIED="1542958894069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.2.1" />
     <SUITE FILE_PATH="coverage/spider_study$scrapydwebapi.coverage" NAME="通过scrapyd控制webapi的启动 Coverage Results" MODIFIED="1543394884235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider12/Ten" />
+    <SUITE FILE_PATH="coverage/spider_domain$spider.coverage" NAME="spider Coverage Results" MODIFIED="1552042997830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/csw/csw/spiders" />
     <SUITE FILE_PATH="coverage/spider_study$mutli_threading_spider.coverage" NAME="mutli_threading_spider Coverage Results" MODIFIED="1543671394999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic/1.3.6" />
     <SUITE FILE_PATH="coverage/spider_study$bs4.coverage" NAME="了解bs4模块 Coverage Results" MODIFIED="1543671621168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic/1.3.6" />
     <SUITE FILE_PATH="coverage/spider_study$main.coverage" NAME="main Coverage Results" MODIFIED="1543395489082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider12/定时" />
     <SUITE FILE_PATH="coverage/spider_study$turing.coverage" NAME="turing Coverage Results" MODIFIED="1542979677266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tspider/tspider/spiders" />
     <SUITE FILE_PATH="coverage/spider_study$js2pyjs.coverage" NAME="利用js2py模块获取js加密的值 Coverage Results" MODIFIED="1543678687404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic/2.3.3" />
     <SUITE FILE_PATH="coverage/spider_study$baidutieba.coverage" NAME="baidutieba Coverage Results" MODIFIED="1543670482747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic/1.3.5" />
-    <SUITE FILE_PATH="coverage/spider_domain$main.coverage" NAME="main Coverage Results" MODIFIED="1552036705304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/csw" />
+    <SUITE FILE_PATH="coverage/spider_domain$main.coverage" NAME="main Coverage Results" MODIFIED="1552042741144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/csw" />
     <SUITE FILE_PATH="coverage/spider_study$pymongo.coverage" NAME="pymongo的增删改查 Coverage Results" MODIFIED="1543679180137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic/2.4.7" />
     <SUITE FILE_PATH="coverage/spider_study$QQ_login.coverage" NAME="QQ_login Coverage Results" MODIFIED="1543676928677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic/2.2.2" />
     <SUITE FILE_PATH="coverage/spider_study$re.coverage" NAME="re模块的复习 Coverage Results" MODIFIED="1543668327181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic/1.3.2" />
+    <SUITE FILE_PATH="coverage/spider_domain$medince_other.coverage" NAME="medince_other Coverage Results" MODIFIED="1552040446904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/csw/csw/spiders" />
     <SUITE FILE_PATH="coverage/spider_study$pymongo_.coverage" NAME="pymongo模块-权限用户 Coverage Results" MODIFIED="1543679077260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic/2.4.7" />
     <SUITE FILE_PATH="coverage/spider_study$seleniumcookies.coverage" NAME="selenium处理cookies Coverage Results" MODIFIED="1543677005783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic/2.2.2" />
     <SUITE FILE_PATH="coverage/spider_study$jsonpath.coverage" NAME="jsonpath模块 Coverage Results" MODIFIED="1543667329165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic/1.3.2" />
@@ -42,70 +46,49 @@
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/csw/csw/pipelines.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-              <folding>
-                <element signature="e#193#203#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/csw/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/csw/csw/asd.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/csw/csw/medince.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/csw/medince.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-29456" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/csw/csw/middlewares.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-733" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/csw/csw/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="59" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.4703601">
+      <split-first>
+        <leaf>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/csw/csw/spiders/medince_other.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="315">
+                  <caret line="23" column="70" selection-start-line="23" selection-start-column="70" selection-end-line="23" selection-end-column="70" />
+                  <folding>
+                    <element signature="e#24#35#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/csw/csw/spiders/spider.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="105">
+                  <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/csw/csw/spiders/medince_other.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="104">
+                  <caret line="9" column="70" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="70" />
+                  <folding>
+                    <element signature="e#24#35#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -125,9 +108,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/spider10/Ten/Ten/readme.md" />
-        <option value="$PROJECT_DIR$/spider10/Ten/readmd.md" />
-        <option value="$PROJECT_DIR$/spider11/example-project/example/settings.py" />
         <option value="$PROJECT_DIR$/spider11/example-project/example/readem.md" />
         <option value="$PROJECT_DIR$/spider11/Ten/Ten/spiders/title.py" />
         <option value="$PROJECT_DIR$/spider11/Ten/Ten/readme.md" />
@@ -170,20 +150,23 @@
         <option value="$PROJECT_DIR$/dangdang/dangdang/spiders/dangdangSpider.py" />
         <option value="$PROJECT_DIR$/csw/csw/spiders/medicine.py" />
         <option value="$PROJECT_DIR$/book/book/spiders/suning.py" />
-        <option value="$PROJECT_DIR$/csw/main.py" />
         <option value="$PROJECT_DIR$/csw/csw/spiders/medince.py" />
         <option value="$PROJECT_DIR$/csw/csw/items.py" />
-        <option value="$PROJECT_DIR$/csw/csw/settings.py" />
-        <option value="$PROJECT_DIR$/csw/csw/asd.py" />
         <option value="$PROJECT_DIR$/csw/csw/pipelines.py" />
+        <option value="$PROJECT_DIR$/csw/main.py" />
+        <option value="$PROJECT_DIR$/csw/csw/asd.py" />
+        <option value="$PROJECT_DIR$/csw/csw/medince.json" />
+        <option value="$PROJECT_DIR$/csw/csw/settings.py" />
+        <option value="$PROJECT_DIR$/csw/csw/spiders/medince_other.py" />
+        <option value="$PROJECT_DIR$/csw/csw/spiders/spider.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="393" />
-    <option name="y" value="55" />
+    <option name="x" value="496" />
+    <option name="y" value="107" />
     <option name="width" value="1309" />
-    <option name="height" value="912" />
+    <option name="height" value="894" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -215,27 +198,8 @@
             <path>
               <item name="spider_domain" type="b2602c69:ProjectViewProjectNode" />
               <item name="spider_domain" type="462c0819:PsiDirectoryNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spider_domain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spider_domain" type="462c0819:PsiDirectoryNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="Tencent" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spider_domain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spider_domain" type="462c0819:PsiDirectoryNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="Tencent" type="462c0819:PsiDirectoryNode" />
-              <item name="Tencent" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spider_domain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spider_domain" type="462c0819:PsiDirectoryNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="Tencent" type="462c0819:PsiDirectoryNode" />
-              <item name="Tencent" type="462c0819:PsiDirectoryNode" />
+              <item name="csw" type="462c0819:PsiDirectoryNode" />
+              <item name="csw" type="462c0819:PsiDirectoryNode" />
               <item name="spiders" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -247,7 +211,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.eslint.eslintPackage" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../csw" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -280,7 +244,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.spider">
     <configuration default="true" type="tests" factoryName="Attests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -389,7 +353,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pymongo模块-普通用户" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="medince_other" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="spider_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -397,12 +361,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic/2.4.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/csw/csw/spiders" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic/2.4.7/pymongo模块-普通用户.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/csw/csw/spiders/medince_other.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -429,7 +393,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration name="pymongo的增删改查" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="spider" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="spider_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -437,12 +401,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic/2.4.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/csw/csw/spiders" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic/2.4.7/pymongo的增删改查.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/csw/csw/spiders/spider.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -461,19 +425,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.pymongo模块-普通用户" />
-      <item itemvalue="Python.pymongo的增删改查" />
       <item itemvalue="Python.main" />
       <item itemvalue="Python.asd" />
       <item itemvalue="Python.medince" />
+      <item itemvalue="Python.medince_other" />
+      <item itemvalue="Python.spider" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.spider" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.asd" />
+        <item itemvalue="Python.medince_other" />
         <item itemvalue="Python.medince" />
-        <item itemvalue="Python.pymongo的增删改查" />
-        <item itemvalue="Python.pymongo模块-普通用户" />
       </list>
     </recent_temporary>
   </component>
@@ -493,28 +457,30 @@
       <workItem from="1551928195150" duration="76000" />
       <workItem from="1551928279848" duration="13834000" />
       <workItem from="1551947949316" duration="1214000" />
-      <workItem from="1552028331172" duration="8538000" />
+      <workItem from="1552028331172" duration="8705000" />
+      <workItem from="1552039871846" duration="3198000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23662000" />
+    <option name="totallyTimeSpent" value="27027000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="259" y="59" width="1309" height="912" extended-state="0" />
+    <frame x="496" y="107" width="1309" height="894" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32858273" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18368962" />
       <window_info id="Structure" order="1" weight="0.24921334" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3291536" />
-      <window_info anchor="bottom" x="587" y="226" width="1238" height="624" id="Run" order="2" type="FLOATING" weight="0.43141153" />
+      <window_info anchor="bottom" x="111" y="24" width="1523" height="680" id="Run" order="2" type="FLOATING" weight="0.43141153" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.7398119" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49946293" weight="0.5109718" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49946293" weight="0.5283019" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50053704" side_tool="true" weight="0.34553283" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
@@ -536,20 +502,6 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/basic/2.2.2/selenium标签定位.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/2.2.2/selenium简介.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/basic/2.2.2/my.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
@@ -771,17 +723,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/csw/csw/spiders/medince.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="71" column="5" lean-forward="true" selection-start-line="71" selection-start-column="5" selection-end-line="72" selection-end-column="27" />
-          <folding>
-            <element signature="e#24#34#0" expanded="true" />
-            <element signature="e#275#939#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/csw/csw/items.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -789,65 +730,78 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/csw/csw/medince.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/csw/medicine.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/csw/medince.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/csw/csw/medince.csv" />
+    <entry file="file://$PROJECT_DIR$/csw/medicine.txt" />
+    <entry file="file://$PROJECT_DIR$/csw/medince.csv" />
     <entry file="file://$PROJECT_DIR$/csw/csw/middlewares.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-733" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/csw/csw/settings.py">
+    <entry file="file://$PROJECT_DIR$/csw/medince.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="59" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
+        <state relative-caret-position="57">
+          <caret line="1994" column="49" selection-start-line="1994" selection-start-column="49" selection-end-line="1994" selection-end-column="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/csw/csw/asd.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/csw/csw/medince.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="405">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/csw/csw/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        <state relative-caret-position="225">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
           <folding>
             <element signature="e#193#203#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/csw/main.py">
+    <entry file="file://$PROJECT_DIR$/csw/csw/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+        <state relative-caret-position="435">
+          <caret line="76" column="28" selection-start-line="76" selection-start-column="28" selection-end-line="76" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/csw/medince.json">
+    <entry file="file://$PROJECT_DIR$/csw/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-29456" />
+        <state relative-caret-position="90">
+          <caret line="6" column="49" lean-forward="true" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csw/csw/spiders/medince.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+          <folding>
+            <element signature="e#24#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csw/csw/medince.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csw/csw/spiders/medince_other.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="23" column="70" selection-start-line="23" selection-start-column="70" selection-end-line="23" selection-end-column="70" />
+          <folding>
+            <element signature="e#24#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csw/csw/spiders/spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
       </provider>
     </entry>
   </component>
