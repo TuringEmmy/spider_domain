@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="358dc6ca-9af5-45ea-8afe-2b0ea1cc8b95" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/csw/csw/spiders/spider.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/csw/csw/asd.py" beforeDir="false" afterPath="$PROJECT_DIR$/csw/csw/asd.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/csw/csw/medince.json" beforeDir="false" afterPath="$PROJECT_DIR$/csw/csw/medince.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/csw/csw/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/csw/csw/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/csw/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/csw/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/csw/medince.json" beforeDir="false" afterPath="$PROJECT_DIR$/csw/medince.json" afterDir="false" />
-    </list>
+    <list default="true" id="358dc6ca-9af5-45ea-8afe-2b0ea1cc8b95" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +40,7 @@
   <component name="FileEditorManager">
     <splitter split-orientation="horizontal" split-proportion="0.4703601">
       <split-first>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/csw/csw/spiders/medince_other.py">
               <provider selected="true" editor-type-id="text-editor">
@@ -65,7 +57,7 @@
             <entry file="file://$PROJECT_DIR$/csw/csw/spiders/spider.py">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="105">
-                  <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+                  <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
                 </state>
               </provider>
             </entry>
@@ -73,7 +65,7 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/csw/csw/spiders/medince_other.py">
               <provider selected="true" editor-type-id="text-editor">
@@ -163,8 +155,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="496" />
-    <option name="y" value="107" />
+    <option name="x" value="176" />
+    <option name="y" value="77" />
     <option name="width" value="1309" />
     <option name="height" value="894" />
   </component>
@@ -176,7 +168,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -206,12 +197,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.eslint.eslintPackage" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../csw" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -375,7 +367,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration default="false" name="pymongo模块-权限用户" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pymongo模块-权限用户" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="spider_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -386,12 +379,15 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="spider_study" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic/2.4.7/pymongo模块-权限用户.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="spider" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="spider_study" />
@@ -425,6 +421,7 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.pymongo模块-权限用户" />
       <item itemvalue="Python.main" />
       <item itemvalue="Python.asd" />
       <item itemvalue="Python.medince" />
@@ -459,17 +456,18 @@
       <workItem from="1551947949316" duration="1214000" />
       <workItem from="1552028331172" duration="8705000" />
       <workItem from="1552039871846" duration="3198000" />
+      <workItem from="1552268810187" duration="14000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27027000" />
+    <option name="totallyTimeSpent" value="27041000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="496" y="107" width="1309" height="894" extended-state="0" />
+    <frame x="176" y="77" width="1309" height="894" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18368962" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18685669" />
       <window_info id="Structure" order="1" weight="0.24921334" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -787,20 +785,20 @@
     <entry file="file://$PROJECT_DIR$/csw/csw/medince.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/csw/csw/spiders/medince_other.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="23" column="70" selection-start-line="23" selection-start-column="70" selection-end-line="23" selection-end-column="70" />
-          <folding>
-            <element signature="e#24#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/csw/csw/spiders/spider.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csw/csw/spiders/medince_other.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="9" column="70" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="70" />
+          <folding>
+            <element signature="e#24#35#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
